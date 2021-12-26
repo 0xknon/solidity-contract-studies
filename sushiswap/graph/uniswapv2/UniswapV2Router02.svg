@@ -42,7 +42,7 @@
 <text text-anchor="middle" x="285.5635" y="-1847.3234" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
 </g>
 <!-- UniswapV2Router02.&lt;Receive Ether&gt; -->
-<g id="node3" class="node" data-name="UniswapV2Router02.<Receive Ether>">
+<g id="node3" class="node" data-name="UniswapV2Router02.ReceiveEther">
 
 <ellipse fill="#ffbdb9" stroke="#a52a2a" stroke-width="3" cx="285.5635" cy="-1789.5234" rx="76.2086" ry="18" style=""></ellipse>
 <text text-anchor="middle" x="285.5635" y="-1785.3234" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Receive Ether&gt;</text>
