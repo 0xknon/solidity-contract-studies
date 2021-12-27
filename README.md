@@ -5,10 +5,9 @@ Learning Solidity by studying the inheritance of existing projects
 ### Referenced Projects
 
 - [Sushiswap](https://github.com/knyumatt/solidity-contract-studies/tree/master/sushiswap)
-> - [UniswapV2 - Sushiswap version](https://github.com/knyumatt/solidity-contract-studies/tree/master/sushiswap/contracts/uniswapv2)
-
-- [Aavegotchi]()
-- [Axie Infinity]()
+  - [UniswapV2 - Sushiswap version](https://github.com/knyumatt/solidity-contract-studies/tree/master/sushiswap/contracts/uniswapv2)
+- [[TODO] Aavegotchi]()
+- [[TODO] Axie Infinity]()
 
 
 
