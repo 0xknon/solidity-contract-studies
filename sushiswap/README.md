@@ -3,11 +3,11 @@
 ### Contents
 - [SushiToken](#sushitoken)
 - [SushiRoll](#sushiroll)
-- [SushiMaker](#SushiMaker)
-- [MasterChef](#MasterChef)
-- [MasterChefV2](#MasterChefV2)
+- [SushiMaker](#sushimaker)
+- [MasterChef](#masterchef)
+- [MasterChefV2](#masterchefv2)
 
-## SushiToken []{#pookie}
+## SushiToken
 
 ![](https://raw.githubusercontent.com/knyumatt/solidity-contract-studies/master/sushiswap/graph/SushiToken.svg)
 
