@@ -1,0 +1,232 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="825pt" height="624pt" viewBox="0.00 0.00 825.32 624.00">
+<g id="graph0" class="graph" transform="translate(4,620) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-620 821.3213,-620 821.3213,4 -4,4" style=""></polygon>
+<g id="clust1" class="cluster">
+<title style="">clusterSushiToken</title>
+<path fill="#445773" stroke="#445773" d="M20,-178C20,-178 797.3213,-178 797.3213,-178 803.3213,-178 809.3213,-184 809.3213,-190 809.3213,-190 809.3213,-459 809.3213,-459 809.3213,-465 803.3213,-471 797.3213,-471 797.3213,-471 20,-471 20,-471 14,-471 8,-465 8,-459 8,-459 8,-190 8,-190 8,-184 14,-178 20,-178" style=""></path>
+<text text-anchor="middle" x="408.6606" y="-454.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SushiToken</text>
+</g>
+<g id="clust2" class="cluster">
+<title style="">clustersrcRepOld</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M587.6182,-93C587.6182,-93 638.6182,-93 638.6182,-93 644.6182,-93 650.6182,-99 650.6182,-105 650.6182,-105 650.6182,-158 650.6182,-158 650.6182,-164 644.6182,-170 638.6182,-170 638.6182,-170 587.6182,-170 587.6182,-170 581.6182,-170 575.6182,-164 575.6182,-158 575.6182,-158 575.6182,-105 575.6182,-105 575.6182,-99 581.6182,-93 587.6182,-93" style=""></path>
+<text text-anchor="middle" x="613.1182" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">srcRepOld</text>
+</g>
+<g id="clust3" class="cluster">
+<title style="">clusterdstRepOld</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M587.6182,-8C587.6182,-8 638.6182,-8 638.6182,-8 644.6182,-8 650.6182,-14 650.6182,-20 650.6182,-20 650.6182,-73 650.6182,-73 650.6182,-79 644.6182,-85 638.6182,-85 638.6182,-85 587.6182,-85 587.6182,-85 581.6182,-85 575.6182,-79 575.6182,-73 575.6182,-73 575.6182,-20 575.6182,-20 575.6182,-14 581.6182,-8 587.6182,-8" style=""></path>
+<text text-anchor="middle" x="613.1182" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">dstRepOld</text>
+</g>
+<g id="clust4" class="cluster">
+<title style="">cluster_01</title>
+<polygon fill="#2e3e56" stroke="#000000" points="17.8583,-479 17.8583,-608 290.6628,-608 290.6628,-479 17.8583,-479" style=""></polygon>
+<text text-anchor="middle" x="154.2605" y="-591.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Legend</text>
+</g>
+<!-- SushiToken.mint -->
+<g id="node1" class="node" data-name="SushiToken.mint">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="255.6628" cy="-393" rx="28.991" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="255.6628" y="-388.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mint</text>
+</g>
+<!-- SushiToken._moveDelegates -->
+<g id="node8" class="node" data-name="SushiToken._moveDelegates">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="420.9993" cy="-339" rx="75.2809" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="420.9993" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_moveDelegates</text>
+</g>
+<!-- SushiToken.mint&#45;&gt;SushiToken._moveDelegates -->
+<g id="edge2" class="edge" data-name="SushiToken.mint->SushiToken._moveDelegates">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M281.4966,-384.5625C304.1634,-377.1594 337.8792,-366.1476 366.4866,-356.8042" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="367.9466,-360.0094 376.3658,-353.5776 365.7733,-353.3553 367.9466,-360.0094" style=""></polygon>
+</g>
+<!-- SushiToken._mint -->
+<g id="node12" class="node" data-name="SushiToken._mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="420.9993" cy="-393" rx="33.646" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="420.9993" y="-388.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_mint</text>
+</g>
+<!-- SushiToken.mint&#45;&gt;SushiToken._mint -->
+<g id="edge1" class="edge" data-name="SushiToken.mint->SushiToken._mint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M284.4622,-393C310.0063,-393 347.7043,-393 377.0206,-393" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="377.4041,-396.5001 387.404,-393 377.404,-389.5001 377.4041,-396.5001" style=""></polygon>
+</g>
+<!-- SushiToken.delegates -->
+<g id="node2" class="node" data-name="SushiToken.delegates">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="90.8583" cy="-420" rx="46.9265" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="90.8583" y="-415.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">delegates</text>
+</g>
+<!-- SushiToken.delegate -->
+<g id="node3" class="node" data-name="SushiToken.delegate">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="90.8583" cy="-366" rx="43.4163" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="90.8583" y="-361.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">delegate</text>
+</g>
+<!-- SushiToken._delegate -->
+<g id="node7" class="node" data-name="SushiToken._delegate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="255.6628" cy="-339" rx="48.0723" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="255.6628" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_delegate</text>
+</g>
+<!-- SushiToken.delegate&#45;&gt;SushiToken._delegate -->
+<g id="edge3" class="edge" data-name="SushiToken.delegate->SushiToken._delegate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M131.174,-359.3951C152.3414,-355.9272 178.5735,-351.6296 201.4916,-347.8749" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="202.1186,-351.3189 211.4212,-346.2481 200.9868,-344.411 202.1186,-351.3189" style=""></polygon>
+</g>
+<!-- SushiToken.delegateBySig -->
+<g id="node4" class="node" data-name="SushiToken.delegateBySig">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="90.8583" cy="-312" rx="67.2139" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="90.8583" y="-307.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">delegateBySig</text>
+</g>
+<!-- SushiToken.delegateBySig&#45;&gt;SushiToken._delegate -->
+<g id="edge6" class="edge" data-name="SushiToken.delegateBySig->SushiToken._delegate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M148.4989,-321.4433C165.6405,-324.2516 184.3581,-327.3181 201.2848,-330.0912" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="201.1282,-333.6122 211.5625,-331.775 202.2599,-326.7042 201.1282,-333.6122" style=""></polygon>
+</g>
+<!-- SushiToken.getChainId -->
+<g id="node11" class="node" data-name="SushiToken.getChainId">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="255.6628" cy="-285" rx="53.8924" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="255.6628" y="-280.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getChainId</text>
+</g>
+<!-- SushiToken.delegateBySig&#45;&gt;SushiToken.getChainId -->
+<g id="edge5" class="edge" data-name="SushiToken.delegateBySig->SushiToken.getChainId">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M148.4989,-302.5567C164.1844,-299.987 181.1894,-297.201 196.9344,-294.6215" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="197.7701,-298.0313 207.0726,-292.9605 196.6383,-291.1234 197.7701,-298.0313" style=""></polygon>
+</g>
+<!-- SushiToken.name -->
+<g id="node13" class="node" data-name="SushiToken.name">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="255.6628" cy="-231" rx="31.9012" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="255.6628" y="-226.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">name</text>
+</g>
+<!-- SushiToken.delegateBySig&#45;&gt;SushiToken.name -->
+<g id="edge4" class="edge" data-name="SushiToken.delegateBySig->SushiToken.name">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M135.3482,-298.4144C145.5789,-294.623 156.2329,-290.1175 165.7166,-285 183.3176,-275.5024 184.7057,-268.518 201.7166,-258 208.0245,-254.0997 214.9704,-250.2913 221.7186,-246.8224" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="223.3382,-249.9258 230.7198,-242.3256 220.2098,-243.6637 223.3382,-249.9258" style=""></polygon>
+</g>
+<!-- SushiToken.getCurrentVotes -->
+<g id="node5" class="node" data-name="SushiToken.getCurrentVotes">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="90.8583" cy="-258" rx="74.7168" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="90.8583" y="-253.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getCurrentVotes</text>
+</g>
+<!-- SushiToken.getPriorVotes -->
+<g id="node6" class="node" data-name="SushiToken.getPriorVotes">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="90.8583" cy="-204" rx="64.8428" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="90.8583" y="-199.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getPriorVotes</text>
+</g>
+<!-- SushiToken._delegate&#45;&gt;SushiToken._moveDelegates -->
+<g id="edge8" class="edge" data-name="SushiToken._delegate->SushiToken._moveDelegates">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M303.9294,-339C313.825,-339 324.5211,-339 335.2862,-339" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="335.6045,-342.5001 345.6045,-339 335.6045,-335.5001 335.6045,-342.5001" style=""></polygon>
+</g>
+<!-- SushiToken.balanceOf -->
+<g id="node14" class="node" data-name="SushiToken.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="420.9993" cy="-285" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="420.9993" y="-280.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- SushiToken._delegate&#45;&gt;SushiToken.balanceOf -->
+<g id="edge7" class="edge" data-name="SushiToken._delegate->SushiToken.balanceOf">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M291.9466,-327.1495C316.0533,-319.276 347.9407,-308.8614 373.9866,-300.3547" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="375.2354,-303.6288 383.6546,-297.197 373.062,-296.9747 375.2354,-303.6288" style=""></polygon>
+</g>
+<!-- SushiToken._writeCheckpoint -->
+<g id="node9" class="node" data-name="SushiToken._writeCheckpoint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="612.6182" cy="-339" rx="80.4577" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="612.6182" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_writeCheckpoint</text>
+</g>
+<!-- SushiToken._moveDelegates&#45;&gt;SushiToken._writeCheckpoint -->
+<g id="edge10" class="edge" data-name="SushiToken._moveDelegates->SushiToken._writeCheckpoint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M491.2631,-332.4679C503.1126,-332.2613 515.5245,-332.2016 527.6987,-332.2889" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="527.815,-335.7902 537.8517,-332.3968 527.8895,-328.7906 527.815,-335.7902" style=""></polygon>
+</g>
+<!-- SushiToken._moveDelegates&#45;&gt;SushiToken._writeCheckpoint -->
+<g id="edge12" class="edge" data-name="SushiToken._moveDelegates->SushiToken._writeCheckpoint">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M491.2631,-345.5321C503.1126,-345.7387 515.5245,-345.7984 527.6987,-345.7111" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="527.8895,-349.2094 537.8517,-345.6032 527.815,-342.2098 527.8895,-349.2094" style=""></polygon>
+</g>
+<!-- srcRepOld.sub -->
+<g id="node15" class="node" data-name="srcRepOld.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="612.6182" cy="-119" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="612.6182" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- SushiToken._moveDelegates&#45;&gt;srcRepOld.sub -->
+<g id="edge9" class="edge" data-name="SushiToken._moveDelegates->srcRepOld.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M476.0046,-326.5766C483.6259,-322.9067 490.7587,-318.1542 496.3897,-312 539.1786,-265.2358 495.9476,-225.8628 532.3897,-174 544.5956,-156.6291 564.1617,-143.0552 580.9153,-133.7384" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="582.6653,-136.7723 589.8689,-129.0032 579.3927,-130.5843 582.6653,-136.7723" style=""></polygon>
+</g>
+<!-- dstRepOld.add -->
+<g id="node16" class="node" data-name="dstRepOld.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="612.6182" cy="-34" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="612.6182" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- SushiToken._moveDelegates&#45;&gt;dstRepOld.add -->
+<g id="edge11" class="edge" data-name="SushiToken._moveDelegates->dstRepOld.add">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M476.9075,-326.8478C484.3157,-323.1426 491.1465,-318.308 496.3897,-312 560.5629,-234.7937 478.6415,-173.7947 532.3897,-89 543.7559,-71.0684 563.307,-57.4845 580.2629,-48.3027" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="582.039,-51.3256 589.3473,-43.6549 578.8507,-45.0938 582.039,-51.3256" style=""></polygon>
+</g>
+<!-- SushiToken.safe32 -->
+<g id="node10" class="node" data-name="SushiToken.safe32">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="765.084" cy="-339" rx="36.4761" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="765.084" y="-334.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">safe32</text>
+</g>
+<!-- SushiToken._writeCheckpoint&#45;&gt;SushiToken.safe32 -->
+<g id="edge13" class="edge" data-name="SushiToken._writeCheckpoint->SushiToken.safe32">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M692.8696,-339C701.6465,-339 710.3522,-339 718.5196,-339" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="718.542,-342.5001 728.5419,-339 718.5419,-335.5001 718.542,-342.5001" style=""></polygon>
+</g>
+<!-- key -->
+<g id="node17" class="node" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="155.8583,-575 25.8583,-575 25.8583,-487 155.8583,-487 155.8583,-575" style=""></polygon>
+<text text-anchor="start" x="75.4943" y="-556.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Internal Call</text>
+<text text-anchor="start" x="71.6023" y="-536.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">External Call</text>
+<text text-anchor="start" x="49.0637" y="-516.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Defined Contract</text>
+<text text-anchor="start" x="35.461" y="-496.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node18" class="node" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="282.6628,-575 228.6628,-575 228.6628,-487 282.6628,-487 282.6628,-575" style=""></polygon>
+<text text-anchor="start" x="243.4219" y="-556.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<text text-anchor="start" x="243.4219" y="-536.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="#445773" stroke="transparent" points="241.6628,-511 241.6628,-531 269.6628,-531 269.6628,-511 241.6628,-511" style=""></polygon>
+<text text-anchor="start" x="243.4219" y="-516.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="none" stroke="#e8726d" points="243.6628,-493 243.6628,-509 267.6628,-509 267.6628,-493 243.6628,-493" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge14" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M147.8583,-561C185.9664,-561 197.9496,-561 231.5674,-561" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="231.6628,-564.5001 241.6628,-561 231.6627,-557.5001 231.6628,-564.5001" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge15" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M147.8583,-541C185.9664,-541 197.9496,-541 231.5674,-541" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="231.6628,-544.5001 241.6628,-541 231.6627,-537.5001 231.6628,-544.5001" style=""></polygon>
+</g>
+</g>
+</svg>

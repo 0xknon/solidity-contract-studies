@@ -1,0 +1,510 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="996pt" height="1103pt" viewBox="0.00 0.00 996.06 1103.00">
+<g id="graph0" class="graph" transform="translate(4,1099) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-1099 992.0561,-1099 992.0561,4 -4,4" style=""></polygon>
+<g id="clust1" class="cluster">
+<title style="">clusterSushiMaker</title>
+<path fill="#445773" stroke="#445773" d="M20,-649C20,-649 968.0561,-649 968.0561,-649 974.0561,-649 980.0561,-655 980.0561,-661 980.0561,-661 980.0561,-938 980.0561,-938 980.0561,-944 974.0561,-950 968.0561,-950 968.0561,-950 20,-950 20,-950 14,-950 8,-944 8,-938 8,-938 8,-661 8,-661 8,-655 14,-649 20,-649" style=""></path>
+<text text-anchor="middle" x="494.028" y="-933.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SushiMaker</text>
+</g>
+<g id="clust2" class="cluster">
+<title style="">clusterIUniswapV2Factory</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M843.737,-309C843.737,-309 949.5147,-309 949.5147,-309 955.5147,-309 961.5147,-315 961.5147,-321 961.5147,-321 961.5147,-374 961.5147,-374 961.5147,-380 955.5147,-386 949.5147,-386 949.5147,-386 843.737,-386 843.737,-386 837.737,-386 831.737,-380 831.737,-374 831.737,-374 831.737,-321 831.737,-321 831.737,-315 837.737,-309 843.737,-309" style=""></path>
+<text text-anchor="middle" x="896.6259" y="-369.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Factory</text>
+</g>
+<g id="clust3" class="cluster">
+<title style="">clusterIUniswapV2Pair</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M842.4357,-8C842.4357,-8 949.816,-8 949.816,-8 955.816,-8 961.816,-14 961.816,-20 961.816,-20 961.816,-289 961.816,-289 961.816,-295 955.816,-301 949.816,-301 949.816,-301 842.4357,-301 842.4357,-301 836.4357,-301 830.4357,-295 830.4357,-289 830.4357,-289 830.4357,-20 830.4357,-20 830.4357,-14 836.4357,-8 842.4357,-8" style=""></path>
+<text text-anchor="middle" x="896.1259" y="-284.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Pair</text>
+</g>
+<g id="clust4" class="cluster">
+<title style="">clusteramount0</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M602.5102,-564C602.5102,-564 648.5102,-564 648.5102,-564 654.5102,-564 660.5102,-570 660.5102,-576 660.5102,-576 660.5102,-629 660.5102,-629 660.5102,-635 654.5102,-641 648.5102,-641 648.5102,-641 602.5102,-641 602.5102,-641 596.5102,-641 590.5102,-635 590.5102,-629 590.5102,-629 590.5102,-576 590.5102,-576 590.5102,-570 596.5102,-564 602.5102,-564" style=""></path>
+<text text-anchor="middle" x="625.5102" y="-624.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amount0</text>
+</g>
+<g id="clust5" class="cluster">
+<title style="">clusteramountIn</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M873.1259,-564C873.1259,-564 919.1259,-564 919.1259,-564 925.1259,-564 931.1259,-570 931.1259,-576 931.1259,-576 931.1259,-629 931.1259,-629 931.1259,-635 925.1259,-641 919.1259,-641 919.1259,-641 873.1259,-641 873.1259,-641 867.1259,-641 861.1259,-635 861.1259,-629 861.1259,-629 861.1259,-576 861.1259,-576 861.1259,-570 867.1259,-564 873.1259,-564" style=""></path>
+<text text-anchor="middle" x="896.1259" y="-624.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amountIn</text>
+</g>
+<g id="clust6" class="cluster">
+<title style="">clusteramountInWithFee</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M850.1259,-479C850.1259,-479 943.1259,-479 943.1259,-479 949.1259,-479 955.1259,-485 955.1259,-491 955.1259,-491 955.1259,-544 955.1259,-544 955.1259,-550 949.1259,-556 943.1259,-556 943.1259,-556 850.1259,-556 850.1259,-556 844.1259,-556 838.1259,-550 838.1259,-544 838.1259,-544 838.1259,-491 838.1259,-491 838.1259,-485 844.1259,-479 850.1259,-479" style=""></path>
+<text text-anchor="middle" x="896.6259" y="-539.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amountInWithFee</text>
+</g>
+<g id="clust7" class="cluster">
+<title style="">clusterreserve0</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M873.1259,-394C873.1259,-394 919.1259,-394 919.1259,-394 925.1259,-394 931.1259,-400 931.1259,-406 931.1259,-406 931.1259,-459 931.1259,-459 931.1259,-465 925.1259,-471 919.1259,-471 919.1259,-471 873.1259,-471 873.1259,-471 867.1259,-471 861.1259,-465 861.1259,-459 861.1259,-459 861.1259,-406 861.1259,-406 861.1259,-400 867.1259,-394 873.1259,-394" style=""></path>
+<text text-anchor="middle" x="896.1259" y="-454.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">reserve0</text>
+</g>
+<g id="clust8" class="cluster">
+<title style="">clusterreserve1</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M873.1259,-958C873.1259,-958 919.1259,-958 919.1259,-958 925.1259,-958 931.1259,-964 931.1259,-970 931.1259,-970 931.1259,-1023 931.1259,-1023 931.1259,-1029 925.1259,-1035 919.1259,-1035 919.1259,-1035 873.1259,-1035 873.1259,-1035 867.1259,-1035 861.1259,-1029 861.1259,-1023 861.1259,-1023 861.1259,-970 861.1259,-970 861.1259,-964 867.1259,-958 873.1259,-958" style=""></path>
+<text text-anchor="middle" x="896.1259" y="-1018.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">reserve1</text>
+</g>
+<g id="clust9" class="cluster">
+<title style="">cluster_01</title>
+<polygon fill="#2e3e56" stroke="#000000" points="16.2562,-958 16.2562,-1087 323.3863,-1087 323.3863,-958 16.2562,-958" style=""></polygon>
+<text text-anchor="middle" x="169.8212" y="-1070.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Legend</text>
+</g>
+<!-- SushiMaker.&lt;Constructor&gt; -->
+<g id="node1" class="node" data-name="SushiMaker.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="89.2562" cy="-899" rx="67.5419" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="89.2562" y="-894.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SushiMaker.IUniswapV2Factory -->
+<g id="node11" class="node" data-name="SushiMaker.IUniswapV2Factory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="288.3863" cy="-899" rx="89.7479" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="288.3863" y="-894.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IUniswapV2Factory</text>
+</g>
+<!-- SushiMaker.&lt;Constructor&gt;&#45;&gt;SushiMaker.IUniswapV2Factory -->
+<g id="edge1" class="edge" data-name="SushiMaker.&lt;Constructor&gt;->SushiMaker.IUniswapV2Factory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M156.9504,-899C167.0328,-899 177.6025,-899 188.1819,-899" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="188.3124,-902.5001 198.3124,-899 188.3124,-895.5001 188.3124,-902.5001" style=""></polygon>
+</g>
+<!-- SushiMaker.bridgeFor -->
+<g id="node2" class="node" data-name="SushiMaker.bridgeFor">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="625.5102" cy="-769" rx="49.2376" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="625.5102" y="-764.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">bridgeFor</text>
+</g>
+<!-- SushiMaker.setBridge -->
+<g id="node3" class="node" data-name="SushiMaker.setBridge">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="89.2562" cy="-845" rx="48.0897" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="89.2562" y="-840.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">setBridge</text>
+</g>
+<!-- SushiMaker.onlyEOA -->
+<g id="node4" class="node" data-name="SushiMaker.onlyEOA">
+
+<polygon fill="#edad56" stroke="#1bc6a6" stroke-width="3" points="141.2687,-779.5442 141.2687,-794.4558 110.8005,-805 67.7119,-805 37.2437,-794.4558 37.2437,-779.5442 67.7119,-769 110.8005,-769 141.2687,-779.5442" style=""></polygon>
+<polygon fill="none" stroke="#1bc6a6" stroke-width="3" points="145.2691,-776.6958 145.2691,-797.3042 111.4732,-809 67.0392,-809 33.2433,-797.3042 33.2433,-776.6958 67.0392,-765 111.4732,-765 145.2691,-776.6958" style=""></polygon>
+<text text-anchor="middle" x="89.2562" y="-782.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">onlyEOA</text>
+</g>
+<!-- SushiMaker.convert -->
+<g id="node5" class="node" data-name="SushiMaker.convert">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="89.2562" cy="-675" rx="39.9876" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="89.2562" y="-670.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">convert</text>
+</g>
+<!-- SushiMaker._convert -->
+<g id="node7" class="node" data-name="SushiMaker._convert">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="288.3863" cy="-675" rx="44.6453" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="288.3863" y="-670.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_convert</text>
+</g>
+<!-- SushiMaker.convert&#45;&gt;SushiMaker._convert -->
+<g id="edge2" class="edge" data-name="SushiMaker.convert->SushiMaker._convert">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M129.5531,-675C159.2918,-675 200.1218,-675 232.9375,-675" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="233.2862,-678.5001 243.2861,-675 233.2861,-671.5001 233.2862,-678.5001" style=""></polygon>
+</g>
+<!-- SushiMaker.convertMultiple -->
+<g id="node6" class="node" data-name="SushiMaker.convertMultiple">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="89.2562" cy="-729" rx="73.0132" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="89.2562" y="-724.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">convertMultiple</text>
+</g>
+<!-- SushiMaker.convertMultiple&#45;&gt;SushiMaker._convert -->
+<g id="edge3" class="edge" data-name="SushiMaker.convertMultiple->SushiMaker._convert">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M138.4794,-715.6517C169.8647,-707.1406 210.3067,-696.1736 241.2738,-687.7759" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="242.2363,-691.1414 250.9716,-685.1461 240.4041,-684.3854 242.2363,-691.1414" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep -->
+<g id="node8" class="node" data-name="SushiMaker._convertStep">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="476.2496" cy="-712" rx="61.9789" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="476.2496" y="-707.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_convertStep</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;SushiMaker._convertStep -->
+<g id="edge10" class="edge" data-name="SushiMaker._convert->SushiMaker._convertStep">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M328.6877,-682.9374C353.8591,-687.895 386.7578,-694.3744 415.1023,-699.9569" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="414.4301,-703.3917 424.918,-701.8902 415.7829,-696.5237 414.4301,-703.3917" style=""></polygon>
+</g>
+<!-- SushiMaker.IUniswapV2Pair -->
+<g id="node12" class="node" data-name="SushiMaker.IUniswapV2Pair">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-813" rx="75.8605" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-808.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IUniswapV2Pair</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;SushiMaker.IUniswapV2Pair -->
+<g id="edge4" class="edge" data-name="SushiMaker._convert->SushiMaker.IUniswapV2Pair">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M296.6657,-692.8584C313.3563,-726.4266 354.6074,-798.0659 414.2601,-826 555.5742,-892.1743 746.6603,-855.057 840.0511,-830.0073" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="841.1417,-833.3376 849.8636,-827.3227 839.2944,-826.5857 841.1417,-833.3376" style=""></polygon>
+</g>
+<!-- SushiMaker.IERC20 -->
+<g id="node13" class="node" data-name="SushiMaker.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-732" rx="42.8771" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-727.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IERC20</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;SushiMaker.IERC20 -->
+<g id="edge6" class="edge" data-name="SushiMaker._convert->SushiMaker.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M298.2899,-693.0668C316.4873,-724.1261 358.5436,-786.6497 414.2601,-811 521.3463,-857.8008 562.1497,-818.745 676.7814,-796 739.2312,-783.6089 809.5914,-761.599 853.3967,-746.9017" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="854.7823,-750.1279 863.1337,-743.6083 852.5394,-743.4969 854.7823,-750.1279" style=""></polygon>
+</g>
+<!-- IUniswapV2Factory.getPair -->
+<g id="node14" class="node" data-name="IUniswapV2Factory.getPair">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-335" rx="38.278" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-330.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getPair</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;IUniswapV2Factory.getPair -->
+<g id="edge5" class="edge" data-name="SushiMaker._convert->IUniswapV2Factory.getPair">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M314.8909,-660.172C412.6782,-605.4649 753.1772,-414.9727 862.2397,-353.9576" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="864.1561,-356.8961 871.1743,-348.9591 860.7384,-350.7871 864.1561,-356.8961" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.balanceOf -->
+<g id="node15" class="node" data-name="IUniswapV2Pair.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-88" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;IUniswapV2Pair.balanceOf -->
+<g id="edge7" class="edge" data-name="SushiMaker._convert->IUniswapV2Pair.balanceOf">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M293.4418,-656.975C307.1043,-610.4907 348.2452,-484.1699 414.2601,-398 548.0113,-223.4133 621.7894,-209.894 820.1957,-115 829.0012,-110.7885 838.6465,-106.8672 848.02,-103.3907" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="849.4142,-106.6089 857.643,-99.9353 847.0486,-100.0208 849.4142,-106.6089" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.burn -->
+<g id="node16" class="node" data-name="IUniswapV2Pair.burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-34" rx="28.9754" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">burn</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;IUniswapV2Pair.burn -->
+<g id="edge8" class="edge" data-name="SushiMaker._convert->IUniswapV2Pair.burn">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M289.179,-656.7279C292.7771,-594.5727 312.2201,-388.2992 414.2601,-264 533.7599,-118.4323 767.0862,-59.053 858.299,-40.7445" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="859.055,-44.163 868.197,-38.8081 857.711,-37.2933 859.055,-44.163" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.token0 -->
+<g id="node17" class="node" data-name="IUniswapV2Pair.token0">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-142" rx="37.1424" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">token0</text>
+</g>
+<!-- SushiMaker._convert&#45;&gt;IUniswapV2Pair.token0 -->
+<g id="edge9" class="edge" data-name="SushiMaker._convert->IUniswapV2Pair.token0">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M302.9151,-657.5197C325.765,-630.3111 371.8739,-576.5378 414.2601,-534 585.514,-362.1337 611.7223,-293.1158 820.1957,-169 830.4235,-162.9108 842.2395,-157.8868 853.4583,-153.8926" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="854.7463,-157.1522 863.1087,-150.6467 852.5147,-150.5174 854.7463,-157.1522" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker.bridgeFor -->
+<g id="edge14" class="edge" data-name="SushiMaker._convertStep->SushiMaker.bridgeFor">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M531.8287,-720.1235C554.1325,-727.6882 578.8691,-737.889 597.3204,-747.3965" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="595.8902,-750.6023 606.3502,-752.2875 599.2242,-744.4472 595.8902,-750.6023" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker.bridgeFor -->
+<g id="edge25" class="edge" data-name="SushiMaker._convertStep->SushiMaker.bridgeFor">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M513.9144,-726.3835C534.5845,-734.2771 560.3161,-744.1035 581.8599,-752.3307" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="580.8399,-755.6877 591.4306,-755.9856 583.3372,-749.1483 580.8399,-755.6877" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker.bridgeFor -->
+<g id="edge26" class="edge" data-name="SushiMaker._convertStep->SushiMaker.bridgeFor">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M496.0703,-729.0892C514.634,-739.6257 543.2813,-751.7735 568.9108,-760.5292" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="567.9654,-763.9027 578.5585,-763.7084 570.1563,-757.2544 567.9654,-763.9027" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._convertStep -->
+<g id="edge16" class="edge" data-name="SushiMaker._convertStep->SushiMaker._convertStep">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M469.556,-730.1527C468.5262,-739.5391 470.7574,-748 476.2496,-748 479.5964,-748 481.7323,-744.8581 482.6572,-740.2796" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="486.1594,-740.2476 482.9432,-730.1527 479.1622,-740.0499 486.1594,-740.2476" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._convertStep -->
+<g id="edge27" class="edge" data-name="SushiMaker._convertStep->SushiMaker._convertStep">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M465.1261,-729.9782C459.1726,-747.1996 462.8805,-766 476.2496,-766 487.0076,-766 491.5097,-753.8264 489.7558,-740.0978" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="493.0719,-738.9099 487.3731,-729.9782 486.2583,-740.5142 493.0719,-738.9099" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._convertStep -->
+<g id="edge29" class="edge" data-name="SushiMaker._convertStep->SushiMaker._convertStep">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M462.3932,-729.7154C449.7343,-754.1143 454.3531,-784 476.2496,-784 495.409,-784 501.3402,-761.1187 494.0432,-739.053" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="497.2163,-737.5699 490.106,-729.7154 490.7662,-740.2896 497.2163,-737.5699" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._convertStep -->
+<g id="edge31" class="edge" data-name="SushiMaker._convertStep->SushiMaker._convertStep">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M460.4505,-729.6705C440.3426,-760.8525 445.609,-802 476.2496,-802 504.0177,-802 510.9461,-768.206 497.035,-738.6611" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="499.9596,-736.718 492.0487,-729.6705 493.8381,-740.1131 499.9596,-736.718" style=""></polygon>
+</g>
+<!-- SushiMaker._swap -->
+<g id="node9" class="node" data-name="SushiMaker._swap">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="748.4885" cy="-695" rx="35.9154" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="748.4885" y="-690.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_swap</text>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge15" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.216,-694.0151C503.7817,-657.091 598.9111,-653.7392 676.7814,-648 701.6656,-646.166 731.3087,-642.9399 743.185,-667.1538" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="739.9946,-668.6328 746.6079,-676.9102 746.5999,-666.3154 739.9946,-668.6328" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge22" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M488.4696,-694.0789C519.7955,-674.5052 605.5162,-671.2524 676.7814,-666 697.4423,-664.4773 721.3839,-661.9948 735.713,-670.1809" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="733.4352,-672.8385 743.2774,-676.7605 738.0292,-667.5568 733.4352,-672.8385" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge24" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M512.8742,-697.4718C553.1015,-691.1419 619.5954,-688.2147 676.7814,-684 688.8154,-683.1131 701.9624,-681.9006 713.6747,-681.697" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="713.9093,-685.2003 723.9544,-681.832 714.0013,-678.2009 713.9093,-685.2003" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge28" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M537.732,-709.6905C577.4388,-708.0122 630.1983,-705.4333 676.7814,-702 685.3888,-701.3656 694.5656,-700.5647 703.3796,-699.7331" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="703.8886,-703.2002 713.5038,-698.7508 703.2126,-696.2329 703.8886,-703.2002" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge30" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M521.2858,-724.4854C561.9526,-726.7447 623.4194,-723.9329 676.7814,-720 691.8912,-718.8864 708.7555,-717.2595 722.3315,-713.9478" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="723.4062,-717.2797 731.9887,-711.0675 721.4054,-710.5717 723.4062,-717.2797" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge32" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M489.4019,-729.6101C521.4668,-746.4416 606.2115,-743.2011 676.7814,-738 698.3584,-736.4097 723.5134,-733.7728 737.5612,-721.1254" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="740.5574,-722.9868 744.1295,-713.0123 735.1169,-718.5822 740.5574,-722.9868" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._swap -->
+<g id="edge33" class="edge" data-name="SushiMaker._convertStep->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M481.5226,-730.1357C504.6307,-765.0611 599.2588,-761.7135 676.7814,-756 702.1047,-754.1336 732.3562,-750.8256 743.7969,-722.6105" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="747.1498,-723.6145 746.7172,-713.0285 740.4538,-721.5737 747.1498,-723.6145" style=""></polygon>
+</g>
+<!-- SushiMaker._toSUSHI -->
+<g id="node10" class="node" data-name="SushiMaker._toSUSHI">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="625.5102" cy="-675" rx="51.0434" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="625.5102" y="-670.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_toSUSHI</text>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._toSUSHI -->
+<g id="edge13" class="edge" data-name="SushiMaker._convertStep->SushiMaker._toSUSHI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M487.4684,-694.1254C508.0237,-677.2514 552.6402,-663.152 585.6137,-660.6778" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="586.0029,-664.1658 595.865,-660.2942 585.7411,-657.1707 586.0029,-664.1658" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._toSUSHI -->
+<g id="edge18" class="edge" data-name="SushiMaker._convertStep->SushiMaker._toSUSHI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M501.2325,-695.4235C518.4328,-688.5683 542.0723,-681.733 564.1193,-676.9087" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="565.0253,-680.2955 574.1081,-674.8408 563.6062,-673.4408 565.0253,-680.2955" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._toSUSHI -->
+<g id="edge20" class="edge" data-name="SushiMaker._convertStep->SushiMaker._toSUSHI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M523.4766,-700.293C539.3197,-696.3656 557.0762,-691.964 573.2799,-687.9473" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="574.2733,-691.3071 583.1374,-685.5037 572.589,-684.5127 574.2733,-691.3071" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._toSUSHI -->
+<g id="edge21" class="edge" data-name="SushiMaker._convertStep->SushiMaker._toSUSHI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M538.2528,-709.9569C556.8251,-705.867 576.4719,-700.367 592.4108,-694.6421" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="593.7149,-697.8907 601.8131,-691.0591 591.2222,-691.3496 593.7149,-697.8907" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker._toSUSHI -->
+<g id="edge23" class="edge" data-name="SushiMaker._convertStep->SushiMaker._toSUSHI">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M513.1455,-726.5168C542.5634,-724.9169 582.5966,-713.403 606.0837,-698.708" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="608.3914,-701.361 614.4988,-692.7036 604.3256,-695.6628 608.3914,-701.361" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker.IERC20 -->
+<g id="edge12" class="edge" data-name="SushiMaker._convertStep->SushiMaker.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M533.7512,-705.1053C617.7309,-703.7057 772.3177,-711.3255 849.5936,-720.9188" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="849.5977,-724.4495 859.969,-722.2849 850.5115,-717.5094 849.5977,-724.4495" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker.IERC20 -->
+<g id="edge17" class="edge" data-name="SushiMaker._convertStep->SushiMaker.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M537.7529,-714.9296C620.373,-718.865 765.7888,-725.7916 843.5635,-729.4963" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="843.4631,-732.9954 853.6184,-729.9752 843.7963,-726.0033 843.4631,-732.9954" style=""></polygon>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;SushiMaker.IERC20 -->
+<g id="edge19" class="edge" data-name="SushiMaker._convertStep->SushiMaker.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M524.8249,-723.3321C604.9828,-733.078 764.1714,-740.7081 845.5946,-738.7537" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="846.1895,-742.2372 856.0773,-738.4319 845.9746,-735.2405 846.1895,-742.2372" style=""></polygon>
+</g>
+<!-- amount0.add -->
+<g id="node20" class="node" data-name="amount0.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="625.5102" cy="-590" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="625.5102" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- SushiMaker._convertStep&#45;&gt;amount0.add -->
+<g id="edge11" class="edge" data-name="SushiMaker._convertStep->amount0.add">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M497.0036,-695.0364C523.979,-672.9878 571.0624,-634.5036 600.1328,-610.7426" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="602.6507,-613.205 608.1784,-604.1664 598.2207,-607.7851 602.6507,-613.205" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;SushiMaker.IUniswapV2Pair -->
+<g id="edge34" class="edge" data-name="SushiMaker._swap->SushiMaker.IUniswapV2Pair">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M765.4122,-711.069C779.6577,-724.3571 800.7607,-743.4938 820.1957,-759 833.5762,-769.6757 848.8688,-780.7524 862.2063,-790.0744" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="860.436,-793.1059 870.6489,-795.9251 864.4232,-787.3524 860.436,-793.1059" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;SushiMaker.IERC20 -->
+<g id="edge41" class="edge" data-name="SushiMaker._swap->SushiMaker.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M783.8514,-698.0032C805.6986,-702.3637 833.7809,-709.333 856.3945,-715.978" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="855.4513,-719.3493 866.0365,-718.8973 857.4798,-712.6497 855.4513,-719.3493" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;SushiMaker.IERC20 -->
+<g id="edge45" class="edge" data-name="SushiMaker._swap->SushiMaker.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M775.2246,-707.0405C794.5651,-713.2497 821.3061,-720.3265 844.7224,-725.583" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="844.0075,-729.0093 854.5232,-727.7165 845.4965,-722.1695 844.0075,-729.0093" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;IUniswapV2Factory.getPair -->
+<g id="edge35" class="edge" data-name="SushiMaker._swap->IUniswapV2Factory.getPair">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M751.0408,-676.9772C759.5032,-619.028 787.9391,-438.4467 820.1957,-390 830.2809,-374.8528 846.0384,-362.4462 860.5905,-353.2752" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="862.6474,-356.1234 869.4341,-347.9876 859.0551,-350.1154 862.6474,-356.1234" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;IUniswapV2Pair.token0 -->
+<g id="edge38" class="edge" data-name="SushiMaker._swap->IUniswapV2Pair.token0">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M749.8368,-676.9794C756.546,-589.2533 787.3225,-209.4589 820.1957,-169 827.7018,-159.7618 838.6051,-153.6819 849.8185,-149.6813" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="851.1318,-152.94 859.675,-146.6739 849.0889,-146.2447 851.1318,-152.94" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.getReserves -->
+<g id="node18" class="node" data-name="IUniswapV2Pair.getReserves">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-196" rx="57.881" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-191.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getReserves</text>
+</g>
+<!-- SushiMaker._swap&#45;&gt;IUniswapV2Pair.getReserves -->
+<g id="edge36" class="edge" data-name="SushiMaker._swap->IUniswapV2Pair.getReserves">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M748.8297,-676.7843C750.6427,-598.8479 761.438,-294.1983 820.1957,-223 824.8487,-217.3618 830.7654,-212.9004 837.2361,-209.3702" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="838.7633,-212.5199 846.3365,-205.1106 835.7958,-206.18 838.7633,-212.5199" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.swap -->
+<g id="node19" class="node" data-name="IUniswapV2Pair.swap">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-250" rx="30.7577" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-245.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">swap</text>
+</g>
+<!-- SushiMaker._swap&#45;&gt;IUniswapV2Pair.swap -->
+<g id="edge42" class="edge" data-name="SushiMaker._swap->IUniswapV2Pair.swap">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M749.7514,-676.9491C755.3316,-607.5603 779.3267,-360.7725 820.1957,-296 829.3871,-281.4327 843.9537,-269.5108 857.8813,-261.172" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="859.8068,-264.1073 866.8784,-256.2179 856.4304,-257.9754 859.8068,-264.1073" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;IUniswapV2Pair.swap -->
+<g id="edge46" class="edge" data-name="SushiMaker._swap->IUniswapV2Pair.swap">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M750.3784,-676.6786C756.9684,-609.1297 780.7043,-376.5892 820.1957,-314 831.9949,-295.2996 852.6521,-280.9587 869.4442,-270.2716" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="871.6927,-272.9922 878.2946,-264.7057 867.9662,-267.0665 871.6927,-272.9922" style=""></polygon>
+</g>
+<!-- amountIn.mul -->
+<g id="node21" class="node" data-name="amountIn.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-590" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- SushiMaker._swap&#45;&gt;amountIn.mul -->
+<g id="edge37" class="edge" data-name="SushiMaker._swap->amountIn.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M769.3282,-680.1788C795.4043,-661.6334 840.1217,-629.8303 868.8859,-609.3731" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="871.1416,-612.0638 877.2623,-603.4158 867.0845,-606.3594 871.1416,-612.0638" style=""></polygon>
+</g>
+<!-- amountInWithFee.mul -->
+<g id="node22" class="node" data-name="amountInWithFee.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-505" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-500.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- SushiMaker._swap&#45;&gt;amountInWithFee.mul -->
+<g id="edge39" class="edge" data-name="SushiMaker._swap->amountInWithFee.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M753.1221,-676.8313C762.6454,-647.3404 786.3989,-589.8391 820.1957,-551 831.9409,-537.5025 847.5989,-525.4558 861.6441,-516.8151" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="863.6775,-519.6825 870.5836,-511.6478 860.1743,-513.6221 863.6775,-519.6825" style=""></polygon>
+</g>
+<!-- SushiMaker._swap&#45;&gt;amountInWithFee.mul -->
+<g id="edge43" class="edge" data-name="SushiMaker._swap->amountInWithFee.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M757.302,-677.4175C768.6763,-651.3989 790.5799,-603.0342 820.1957,-569 834.9811,-552.0086 855.9672,-537.3165 872.1308,-525.9811" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="874.3975,-528.665 880.5445,-520.0357 870.3578,-522.9483 874.3975,-528.665" style=""></polygon>
+</g>
+<!-- reserve0.mul -->
+<g id="node23" class="node" data-name="reserve0.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-420" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-415.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- SushiMaker._swap&#45;&gt;reserve0.mul -->
+<g id="edge40" class="edge" data-name="SushiMaker._swap->reserve0.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M750.5704,-676.7475C755.9069,-636.7137 773.1303,-539.6193 820.1957,-475 831.9716,-458.832 849.9375,-445.513 865.4376,-436.0332" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="867.3468,-438.9714 874.2134,-430.9028 863.8139,-432.9282 867.3468,-438.9714" style=""></polygon>
+</g>
+<!-- reserve1.mul -->
+<g id="node24" class="node" data-name="reserve1.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="896.1259" cy="-984" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="896.1259" y="-979.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- SushiMaker._swap&#45;&gt;reserve1.mul -->
+<g id="edge44" class="edge" data-name="SushiMaker._swap->reserve1.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M751.3675,-713.176C760.0423,-765.9041 787.3638,-917.483 820.1957,-954 830.4903,-965.4501 845.7207,-972.5847 859.8442,-977.0045" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="859.2754,-980.4783 869.8462,-979.7659 861.1383,-973.7308 859.2754,-980.4783" style=""></polygon>
+</g>
+<!-- SushiMaker._toSUSHI&#45;&gt;SushiMaker._swap -->
+<g id="edge47" class="edge" data-name="SushiMaker._toSUSHI->SushiMaker._swap">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M672.3539,-682.6182C682.8411,-684.3237 693.9317,-686.1274 704.3067,-687.8147" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="703.9621,-691.3046 714.3943,-689.4552 705.0858,-684.3953 703.9621,-691.3046" style=""></polygon>
+</g>
+<!-- key -->
+<g id="node25" class="node" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="154.2562,-1054 24.2562,-1054 24.2562,-966 154.2562,-966 154.2562,-1054" style=""></polygon>
+<text text-anchor="start" x="73.8922" y="-1035.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Internal Call</text>
+<text text-anchor="start" x="70.0002" y="-1015.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">External Call</text>
+<text text-anchor="start" x="47.4616" y="-995.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Defined Contract</text>
+<text text-anchor="start" x="33.8589" y="-975.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node26" class="node" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="315.3863,-1054 261.3863,-1054 261.3863,-966 315.3863,-966 315.3863,-1054" style=""></polygon>
+<text text-anchor="start" x="276.1454" y="-1035.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<text text-anchor="start" x="276.1454" y="-1015.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="#445773" stroke="transparent" points="274.3863,-990 274.3863,-1010 302.3863,-1010 302.3863,-990 274.3863,-990" style=""></polygon>
+<text text-anchor="start" x="276.1454" y="-995.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="none" stroke="#e8726d" points="276.3863,-972 276.3863,-988 300.3863,-988 300.3863,-972 276.3863,-972" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge48" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M146.2562,-1040C199.6437,-1040 215.4932,-1040 264.1884,-1040" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="264.3863,-1043.5001 274.3863,-1040 264.3862,-1036.5001 264.3863,-1043.5001" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge49" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M146.2562,-1020C199.6437,-1020 215.4932,-1020 264.1884,-1020" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="264.3863,-1023.5001 274.3863,-1020 264.3862,-1016.5001 264.3863,-1023.5001" style=""></polygon>
+</g>
+</g>
+</svg>

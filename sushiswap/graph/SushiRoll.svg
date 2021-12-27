@@ -1,0 +1,356 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="928pt" height="748pt" viewBox="0.00 0.00 928.34 748.00">
+<g id="graph0" class="graph" transform="translate(4,744) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-744 924.3377,-744 924.3377,4 -4,4" style=""></polygon>
+<g id="clust1" class="cluster">
+<title style="">clusterSushiRoll</title>
+<path fill="#445773" stroke="#445773" d="M20,-269C20,-269 900.3377,-269 900.3377,-269 906.3377,-269 912.3377,-275 912.3377,-281 912.3377,-281 912.3377,-496 912.3377,-496 912.3377,-502 906.3377,-508 900.3377,-508 900.3377,-508 20,-508 20,-508 14,-508 8,-502 8,-496 8,-496 8,-281 8,-281 8,-275 14,-269 20,-269" style=""></path>
+<text text-anchor="middle" x="460.1688" y="-491.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SushiRoll</text>
+</g>
+<g id="clust2" class="cluster">
+<title style="">clusterIUniswapV2Pair</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M550.9166,-8C550.9166,-8 665.8082,-8 665.8082,-8 671.8082,-8 677.8082,-14 677.8082,-20 677.8082,-20 677.8082,-181 677.8082,-181 677.8082,-187 671.8082,-193 665.8082,-193 665.8082,-193 550.9166,-193 550.9166,-193 544.9166,-193 538.9166,-187 538.9166,-181 538.9166,-181 538.9166,-20 538.9166,-20 538.9166,-14 544.9166,-8 550.9166,-8" style=""></path>
+<text text-anchor="middle" x="608.3624" y="-176.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Pair</text>
+</g>
+<g id="clust3" class="cluster">
+<title style="">clusterUniswapV2Library</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M760.7737,-22C760.7737,-22 868.154,-22 868.154,-22 874.154,-22 880.154,-28 880.154,-34 880.154,-34 880.154,-249 880.154,-249 880.154,-255 874.154,-261 868.154,-261 868.154,-261 760.7737,-261 760.7737,-261 754.7737,-261 748.7737,-255 748.7737,-249 748.7737,-249 748.7737,-34 748.7737,-34 748.7737,-28 754.7737,-22 760.7737,-22" style=""></path>
+<text text-anchor="middle" x="814.4638" y="-244.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">UniswapV2Library</text>
+</g>
+<g id="clust4" class="cluster">
+<title style="">clusterIUniswapV2Router01</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M757.0837,-655C757.0837,-655 871.844,-655 871.844,-655 877.844,-655 883.844,-661 883.844,-667 883.844,-667 883.844,-720 883.844,-720 883.844,-726 877.844,-732 871.844,-732 871.844,-732 757.0837,-732 757.0837,-732 751.0837,-732 745.0837,-726 745.0837,-720 745.0837,-720 745.0837,-667 745.0837,-667 745.0837,-661 751.0837,-655 757.0837,-655" style=""></path>
+<text text-anchor="middle" x="814.4638" y="-715.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Router01</text>
+</g>
+<g id="clust5" class="cluster">
+<title style="">clusterIUniswapV2Factory</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M761.8285,-516C761.8285,-516 868.0991,-516 868.0991,-516 874.0991,-516 880.0991,-522 880.0991,-528 880.0991,-528 880.0991,-635 880.0991,-635 880.0991,-641 874.0991,-647 868.0991,-647 868.0991,-647 761.8285,-647 761.8285,-647 755.8285,-647 749.8285,-641 749.8285,-635 749.8285,-635 749.8285,-528 749.8285,-528 749.8285,-522 755.8285,-516 761.8285,-516" style=""></path>
+<text text-anchor="middle" x="814.9638" y="-630.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IUniswapV2Factory</text>
+</g>
+<g id="clust6" class="cluster">
+<title style="">cluster_01</title>
+<polygon fill="#2e3e56" stroke="#000000" points="28.5929,-559 28.5929,-688 298.7186,-688 298.7186,-559 28.5929,-559" style=""></polygon>
+<text text-anchor="middle" x="163.6558" y="-671.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Legend</text>
+</g>
+<!-- SushiRoll.&lt;Constructor&gt; -->
+<g id="node1" class="node" data-name="SushiRoll.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="101.5929" cy="-431" rx="67.5419" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="101.5929" y="-426.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- SushiRoll.migrateWithPermit -->
+<g id="node2" class="node" data-name="SushiRoll.migrateWithPermit">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="101.5929" cy="-342" rx="85.686" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="101.5929" y="-337.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">migrateWithPermit</text>
+</g>
+<!-- SushiRoll.migrate -->
+<g id="node3" class="node" data-name="SushiRoll.migrate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="263.7186" cy="-407" rx="40.5654" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="263.7186" y="-402.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">migrate</text>
+</g>
+<!-- SushiRoll.migrateWithPermit&#45;&gt;SushiRoll.migrate -->
+<g id="edge4" class="edge" data-name="SushiRoll.migrateWithPermit->SushiRoll.migrate">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M141.669,-358.0674C166.7516,-368.1236 198.939,-381.0283 223.9611,-391.0603" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="222.9293,-394.4174 233.5136,-394.8901 225.5342,-387.9201 222.9293,-394.4174" style=""></polygon>
+</g>
+<!-- SushiRoll.pairForOldRouter -->
+<g id="node5" class="node" data-name="SushiRoll.pairForOldRouter">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-295" rx="80.4557" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-290.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">pairForOldRouter</text>
+</g>
+<!-- SushiRoll.migrateWithPermit&#45;&gt;SushiRoll.pairForOldRouter -->
+<g id="edge2" class="edge" data-name="SushiRoll.migrateWithPermit->SushiRoll.pairForOldRouter">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M186.5677,-339.4084C283.3218,-336.1461 435.3257,-329.9889 492.1349,-322 510.1406,-319.4679 529.4625,-315.4981 547.0814,-311.3742" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="548.3281,-314.6745 557.2356,-308.938 546.6949,-307.8677 548.3281,-314.6745" style=""></polygon>
+</g>
+<!-- SushiRoll.IUniswapV2Pair -->
+<g id="node8" class="node" data-name="SushiRoll.IUniswapV2Pair">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-349" rx="75.8605" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-344.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IUniswapV2Pair</text>
+</g>
+<!-- SushiRoll.migrateWithPermit&#45;&gt;SushiRoll.IUniswapV2Pair -->
+<g id="edge1" class="edge" data-name="SushiRoll.migrateWithPermit->SushiRoll.IUniswapV2Pair">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M187.2728,-343.1835C280.4458,-344.4705 428.5289,-346.516 521.9777,-347.8068" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="522.2037,-351.3101 532.2511,-347.9487 522.3004,-344.3108 522.2037,-351.3101" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.permit -->
+<g id="node11" class="node" data-name="IUniswapV2Pair.permit">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-34" rx="36.4936" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">permit</text>
+</g>
+<!-- SushiRoll.migrateWithPermit&#45;&gt;IUniswapV2Pair.permit -->
+<g id="edge3" class="edge" data-name="SushiRoll.migrateWithPermit->IUniswapV2Pair.permit">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M123.4699,-324.5922C184.3761,-276.8127 362.3364,-141.8235 528.1349,-61 540.2261,-55.1057 553.9272,-49.9748 566.5412,-45.8148" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="567.9023,-49.0548 576.3728,-42.6907 565.7824,-42.3835 567.9023,-49.0548" style=""></polygon>
+</g>
+<!-- SushiRoll.removeLiquidity -->
+<g id="node4" class="node" data-name="SushiRoll.removeLiquidity">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="416.1931" cy="-295" rx="75.8836" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="416.1931" y="-290.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">removeLiquidity</text>
+</g>
+<!-- SushiRoll.migrate&#45;&gt;SushiRoll.removeLiquidity -->
+<g id="edge5" class="edge" data-name="SushiRoll.migrate->SushiRoll.removeLiquidity">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M284.9195,-391.4269C310.6882,-372.4985 354.4197,-340.3756 384.2688,-318.4499" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="386.6844,-321.0183 392.6718,-312.2775 382.5404,-315.3768 386.6844,-321.0183" style=""></polygon>
+</g>
+<!-- SushiRoll.addLiquidity -->
+<g id="node6" class="node" data-name="SushiRoll.addLiquidity">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="416.1931" cy="-407" rx="60.8564" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="416.1931" y="-402.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">addLiquidity</text>
+</g>
+<!-- SushiRoll.migrate&#45;&gt;SushiRoll.addLiquidity -->
+<g id="edge6" class="edge" data-name="SushiRoll.migrate->SushiRoll.addLiquidity">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M304.5789,-407C317.072,-407 331.1937,-407 345.087,-407" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="345.1367,-410.5001 355.1367,-407 345.1366,-403.5001 345.1367,-410.5001" style=""></polygon>
+</g>
+<!-- SushiRoll.IERC20 -->
+<g id="node9" class="node" data-name="SushiRoll.IERC20">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-457" rx="42.8771" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-452.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IERC20</text>
+</g>
+<!-- SushiRoll.migrate&#45;&gt;SushiRoll.IERC20 -->
+<g id="edge7" class="edge" data-name="SushiRoll.migrate->SushiRoll.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M301.3196,-413.8443C313.547,-417.8266 327.3046,-422.2085 340.2513,-425 415.1177,-441.1426 504.0449,-446.0424 558.324,-449.8423" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="558.1484,-453.3386 568.374,-450.566 558.6512,-446.3567 558.1484,-453.3386" style=""></polygon>
+</g>
+<!-- SushiRoll.migrate&#45;&gt;SushiRoll.IERC20 -->
+<g id="edge8" class="edge" data-name="SushiRoll.migrate->SushiRoll.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M283.4588,-422.9245C298.6818,-430.7152 320.4181,-438.7236 340.2513,-443 414.9032,-459.0963 503.5354,-464.0142 557.8566,-463.1233" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="558.0065,-466.6208 567.919,-462.8801 557.8373,-459.6229 558.0065,-466.6208" style=""></polygon>
+</g>
+<!-- SushiRoll.removeLiquidity&#45;&gt;SushiRoll.pairForOldRouter -->
+<g id="edge10" class="edge" data-name="SushiRoll.removeLiquidity->SushiRoll.pairForOldRouter">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M492.1435,-295C500.5888,-295 509.2515,-295 517.8543,-295" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="517.9093,-298.5001 527.9092,-295 517.9092,-291.5001 517.9093,-298.5001" style=""></polygon>
+</g>
+<!-- SushiRoll.removeLiquidity&#45;&gt;SushiRoll.IUniswapV2Pair -->
+<g id="edge9" class="edge" data-name="SushiRoll.removeLiquidity->SushiRoll.IUniswapV2Pair">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M465.1827,-308.7662C490.8337,-315.9742 522.4339,-324.8539 549.4161,-332.436" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="548.5544,-335.8293 559.1284,-335.1651 550.4482,-329.0903 548.5544,-335.8293" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.transferFrom -->
+<g id="node12" class="node" data-name="IUniswapV2Pair.transferFrom">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-88" rx="61.3916" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transferFrom</text>
+</g>
+<!-- SushiRoll.removeLiquidity&#45;&gt;IUniswapV2Pair.transferFrom -->
+<g id="edge11" class="edge" data-name="SushiRoll.removeLiquidity->IUniswapV2Pair.transferFrom">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M425.3005,-277.1281C446.404,-236.3147 499.063,-138.0102 528.1349,-115 534.3736,-110.062 541.5619,-106.0051 549.019,-102.6773" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="550.5857,-105.8198 558.5572,-98.8408 547.9734,-99.3254 550.5857,-105.8198" style=""></polygon>
+</g>
+<!-- IUniswapV2Pair.burn -->
+<g id="node13" class="node" data-name="IUniswapV2Pair.burn">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-142" rx="28.9754" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">burn</text>
+</g>
+<!-- SushiRoll.removeLiquidity&#45;&gt;IUniswapV2Pair.burn -->
+<g id="edge12" class="edge" data-name="SushiRoll.removeLiquidity->IUniswapV2Pair.burn">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M435.0193,-277.2914C456.8043,-257.0937 494.0589,-223.4479 528.1349,-197 544.6395,-184.19 563.9292,-170.916 579.4572,-160.6182" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="581.6831,-163.3436 588.1158,-154.925 577.8372,-157.4946 581.6831,-163.3436" style=""></polygon>
+</g>
+<!-- UniswapV2Library.sortTokens -->
+<g id="node14" class="node" data-name="UniswapV2Library.sortTokens">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-102" rx="53.8924" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-97.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sortTokens</text>
+</g>
+<!-- SushiRoll.removeLiquidity&#45;&gt;UniswapV2Library.sortTokens -->
+<g id="edge13" class="edge" data-name="SushiRoll.removeLiquidity->UniswapV2Library.sortTokens">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M466.9464,-281.4951C535.9755,-262.3427 654.7561,-226.3543 688.59,-197 714.4197,-174.5901 698.1699,-150.711 724.59,-129 733.4492,-121.7198 744.2304,-116.4019 755.2072,-112.5175" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="756.3841,-115.8162 764.8603,-109.4597 754.2702,-109.143 756.3841,-115.8162" style=""></polygon>
+</g>
+<!-- SushiRoll.pairForOldRouter&#45;&gt;UniswapV2Library.sortTokens -->
+<g id="edge14" class="edge" data-name="SushiRoll.pairForOldRouter->UniswapV2Library.sortTokens">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M662.4152,-281.4835C672.1932,-276.9602 681.5149,-270.9559 688.59,-263 729.5697,-216.9183 681.6299,-173.2413 724.59,-129 732.5782,-120.7735 742.9674,-115.0296 753.8335,-111.025" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="755.0058,-114.3247 763.4569,-107.9349 752.8656,-107.6599 755.0058,-114.3247" style=""></polygon>
+</g>
+<!-- IUniswapV2Router01.factory -->
+<g id="node18" class="node" data-name="IUniswapV2Router01.factory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-681" rx="38.2607" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-676.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">factory</text>
+</g>
+<!-- SushiRoll.pairForOldRouter&#45;&gt;IUniswapV2Router01.factory -->
+<g id="edge15" class="edge" data-name="SushiRoll.pairForOldRouter->IUniswapV2Router01.factory">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M669.3056,-306.949C676.6896,-310.6896 683.4307,-315.5882 688.59,-322 780.8046,-436.6011 632.2342,-536.5127 724.59,-651 734.8413,-663.7079 750.6541,-671.0714 766.1746,-675.3244" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="765.7348,-678.8163 776.2702,-677.695 767.3351,-672.0016 765.7348,-678.8163" style=""></polygon>
+</g>
+<!-- SushiRoll._addLiquidity -->
+<g id="node7" class="node" data-name="SushiRoll._addLiquidity">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="608.3624" cy="-403" rx="65.5141" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="608.3624" y="-398.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">_addLiquidity</text>
+</g>
+<!-- SushiRoll.addLiquidity&#45;&gt;SushiRoll._addLiquidity -->
+<g id="edge16" class="edge" data-name="SushiRoll.addLiquidity->SushiRoll._addLiquidity">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M476.9966,-405.7344C494.6246,-405.3674 514.0925,-404.9622 532.5198,-404.5787" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="532.7068,-408.0756 542.6318,-404.3682 532.5611,-401.0771 532.7068,-408.0756" style=""></polygon>
+</g>
+<!-- SushiRoll.addLiquidity&#45;&gt;SushiRoll.IUniswapV2Pair -->
+<g id="edge21" class="edge" data-name="SushiRoll.addLiquidity->SushiRoll.IUniswapV2Pair">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M458.8417,-394.1279C486.1616,-385.8823 521.9325,-375.086 551.6363,-366.1209" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="552.8941,-369.3973 561.4562,-363.1571 550.8714,-362.6959 552.8941,-369.3973" style=""></polygon>
+</g>
+<!-- SushiRoll.addLiquidity&#45;&gt;SushiRoll.IERC20 -->
+<g id="edge19" class="edge" data-name="SushiRoll.addLiquidity->SushiRoll.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M470.7471,-415.0392C502.0143,-422.221 540.547,-432.4394 568.8779,-441.1496" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="567.8552,-444.4969 578.4447,-444.1601 569.9565,-437.8197 567.8552,-444.4969" style=""></polygon>
+</g>
+<!-- SushiRoll.addLiquidity&#45;&gt;SushiRoll.IERC20 -->
+<g id="edge20" class="edge" data-name="SushiRoll.addLiquidity->SushiRoll.IERC20">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M451.8883,-421.6753C481.4967,-430.9398 523.971,-442.2106 557.1976,-449.7338" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="556.6682,-453.2012 567.1879,-451.942 558.179,-446.3662 556.6682,-453.2012" style=""></polygon>
+</g>
+<!-- UniswapV2Library.pairFor -->
+<g id="node15" class="node" data-name="UniswapV2Library.pairFor">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-48" rx="39.4235" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-43.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">pairFor</text>
+</g>
+<!-- SushiRoll.addLiquidity&#45;&gt;UniswapV2Library.pairFor -->
+<g id="edge17" class="edge" data-name="SushiRoll.addLiquidity->UniswapV2Library.pairFor">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M433.2551,-389.3988C449.1748,-372.6372 473.2421,-346.4141 492.1349,-322 509.7877,-299.1882 506.0677,-286.5753 528.1349,-268 587.795,-217.7803 637.1357,-255.5987 688.59,-197 725.8916,-154.519 684.7128,-115.0732 724.59,-75 735.5144,-64.0218 750.7185,-57.4738 765.5173,-53.5795" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="766.6611,-56.9091 775.6403,-51.2857 765.1141,-50.0822 766.6611,-56.9091" style=""></polygon>
+</g>
+<!-- SushiRoll.addLiquidity&#45;&gt;IUniswapV2Router01.factory -->
+<g id="edge18" class="edge" data-name="SushiRoll.addLiquidity->IUniswapV2Router01.factory">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M433.7038,-424.5876C478.3826,-468.5753 601.7817,-584.5844 724.59,-651 738.8329,-658.7027 755.4109,-664.9174 770.4222,-669.6495" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="769.4356,-673.0076 780.0203,-672.5459 771.4579,-666.3061 769.4356,-673.0076" style=""></polygon>
+</g>
+<!-- SushiRoll.IUniswapV2Factory -->
+<g id="node10" class="node" data-name="SushiRoll.IUniswapV2Factory">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-403" rx="89.7479" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-398.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IUniswapV2Factory</text>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;SushiRoll.IUniswapV2Factory -->
+<g id="edge22" class="edge" data-name="SushiRoll._addLiquidity->SushiRoll.IUniswapV2Factory">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M674.1408,-403C686.9081,-403 700.5576,-403 714.1437,-403" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="714.5051,-406.5001 724.5051,-403 714.505,-399.5001 714.5051,-406.5001" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getReserves -->
+<g id="node16" class="node" data-name="UniswapV2Library.getReserves">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-210" rx="57.881" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-205.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getReserves</text>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;UniswapV2Library.getReserves -->
+<g id="edge26" class="edge" data-name="SushiRoll._addLiquidity->UniswapV2Library.getReserves">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M662.4187,-392.5354C672.0796,-388.6471 681.356,-383.3141 688.59,-376 725.0601,-339.1258 692.4805,-305.7279 724.59,-265 736.5349,-249.849 753.8921,-237.8467 770.1746,-228.9703" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="771.8009,-232.0696 779.0686,-224.3604 768.5797,-225.8547 771.8009,-232.0696" style=""></polygon>
+</g>
+<!-- UniswapV2Library.quote -->
+<g id="node17" class="node" data-name="UniswapV2Library.quote">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-156" rx="32.4846" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-151.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">quote</text>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;UniswapV2Library.quote -->
+<g id="edge27" class="edge" data-name="SushiRoll._addLiquidity->UniswapV2Library.quote">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M650.6916,-389.0364C664.6017,-384.6408 678.9518,-378.0941 688.59,-367 745.8161,-301.1289 666.2915,-238.9239 724.59,-174 737.0559,-160.1174 756.3547,-153.2522 773.8781,-150.71" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="774.329,-154.1824 783.9254,-149.6924 773.6236,-147.218 774.329,-154.1824" style=""></polygon>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;UniswapV2Library.quote -->
+<g id="edge28" class="edge" data-name="SushiRoll._addLiquidity->UniswapV2Library.quote">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M672.0239,-397.9787C678.2517,-394.6026 683.9637,-390.3252 688.59,-385 745.8161,-319.1289 666.2915,-256.9239 724.59,-192 737.4798,-177.6453 757.6751,-170.7934 775.6593,-166.684" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="776.5676,-170.0699 785.6407,-164.5992 775.1363,-163.2178 776.5676,-170.0699" style=""></polygon>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;IUniswapV2Router01.factory -->
+<g id="edge23" class="edge" data-name="SushiRoll._addLiquidity->IUniswapV2Router01.factory">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M663.7426,-412.798C673.1748,-416.7445 682.0279,-422.2693 688.59,-430 752.9907,-505.8693 660.0958,-575.2101 724.59,-651 735.1713,-663.4345 751.0581,-670.7366 766.5457,-675.017" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="766.0665,-678.5008 776.6057,-677.4169 767.6909,-671.6919 766.0665,-678.5008" style=""></polygon>
+</g>
+<!-- IUniswapV2Factory.getPair -->
+<g id="node19" class="node" data-name="IUniswapV2Factory.getPair">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-596" rx="38.278" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-591.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getPair</text>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;IUniswapV2Factory.getPair -->
+<g id="edge24" class="edge" data-name="SushiRoll._addLiquidity->IUniswapV2Factory.getPair">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M662.7724,-413.1251C672.4042,-417.0414 681.5794,-422.4715 688.59,-430 732.0798,-476.7026 680.3402,-523.0168 724.59,-569 735.6176,-580.4596 751.303,-587.1056 766.4907,-590.9428" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="765.8305,-594.3809 776.3453,-593.0811 767.3149,-587.5401 765.8305,-594.3809" style=""></polygon>
+</g>
+<!-- IUniswapV2Factory.createPair -->
+<g id="node20" class="node" data-name="IUniswapV2Factory.createPair">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="814.4638" cy="-542" rx="49.771" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="814.4638" y="-537.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">createPair</text>
+</g>
+<!-- SushiRoll._addLiquidity&#45;&gt;IUniswapV2Factory.createPair -->
+<g id="edge25" class="edge" data-name="SushiRoll._addLiquidity->IUniswapV2Factory.createPair">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M661.4375,-413.8883C671.2912,-417.7448 680.8908,-422.9577 688.59,-430 717.9591,-456.8636 695.1878,-485.1726 724.59,-512 734.3699,-520.9235 746.8837,-527.2013 759.4457,-531.615" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="758.427,-534.9636 769.0169,-534.6398 760.5364,-528.289 758.427,-534.9636" style=""></polygon>
+</g>
+<!-- key -->
+<g id="node21" class="node" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="166.5929,-655 36.5929,-655 36.5929,-567 166.5929,-567 166.5929,-655" style=""></polygon>
+<text text-anchor="start" x="86.2289" y="-636.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Internal Call</text>
+<text text-anchor="start" x="82.3369" y="-616.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">External Call</text>
+<text text-anchor="start" x="59.7983" y="-596.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Defined Contract</text>
+<text text-anchor="start" x="46.1956" y="-576.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node22" class="node" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="290.7186,-655 236.7186,-655 236.7186,-567 290.7186,-567 290.7186,-655" style=""></polygon>
+<text text-anchor="start" x="251.4777" y="-636.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<text text-anchor="start" x="251.4777" y="-616.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="#445773" stroke="transparent" points="249.7186,-591 249.7186,-611 277.7186,-611 277.7186,-591 249.7186,-591" style=""></polygon>
+<text text-anchor="start" x="251.4777" y="-596.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="none" stroke="#e8726d" points="251.7186,-573 251.7186,-589 275.7186,-589 275.7186,-573 251.7186,-573" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge29" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M158.5929,-641C195.4545,-641 207.1538,-641 239.494,-641" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="239.7186,-644.5001 249.7186,-641 239.7185,-637.5001 239.7186,-644.5001" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge30" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M158.5929,-621C195.4545,-621 207.1538,-621 239.494,-621" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="239.7186,-624.5001 249.7186,-621 239.7185,-617.5001 239.7186,-624.5001" style=""></polygon>
+</g>
+</g>
+</svg>

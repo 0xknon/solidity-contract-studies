@@ -1,0 +1,447 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="894pt" height="1118pt" viewBox="0.00 0.00 893.89 1118.00">
+<g id="graph0" class="graph" transform="translate(3.890978817406264,1115.4017479252802) scale(1.001387255711336)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-1114 889.8936,-1114 889.8936,4 -4,4" style=""></polygon>
+<g id="clust1" class="cluster">
+<title style="">clusterIMigratorChef</title>
+<path fill="#445773" stroke="#445773" d="M257.1799,-286C257.1799,-286 374.2452,-286 374.2452,-286 380.2452,-286 386.2452,-292 386.2452,-298 386.2452,-298 386.2452,-351 386.2452,-351 386.2452,-357 380.2452,-363 374.2452,-363 374.2452,-363 257.1799,-363 257.1799,-363 251.1799,-363 245.1799,-357 245.1799,-351 245.1799,-351 245.1799,-298 245.1799,-298 245.1799,-292 251.1799,-286 257.1799,-286" style=""></path>
+<text text-anchor="middle" x="315.7125" y="-346.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IMigratorChef &nbsp;(iface)</text>
+</g>
+<g id="clust2" class="cluster">
+<title style="">clusterMasterChef</title>
+<path fill="#445773" stroke="#445773" d="M20,-510C20,-510 748.8936,-510 748.8936,-510 754.8936,-510 760.8936,-516 760.8936,-522 760.8936,-522 760.8936,-953 760.8936,-953 760.8936,-959 754.8936,-965 748.8936,-965 748.8936,-965 20,-965 20,-965 14,-965 8,-959 8,-953 8,-953 8,-522 8,-522 8,-516 14,-510 20,-510" style=""></path>
+<text text-anchor="middle" x="384.4468" y="-948.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">MasterChef</text>
+</g>
+<g id="clust3" class="cluster">
+<title style="">clustertotalAllocPoint</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M277.7125,-371C277.7125,-371 354.7125,-371 354.7125,-371 360.7125,-371 366.7125,-377 366.7125,-383 366.7125,-383 366.7125,-490 366.7125,-490 366.7125,-496 360.7125,-502 354.7125,-502 354.7125,-502 277.7125,-502 277.7125,-502 271.7125,-502 265.7125,-496 265.7125,-490 265.7125,-490 265.7125,-383 265.7125,-383 265.7125,-377 271.7125,-371 277.7125,-371" style=""></path>
+<text text-anchor="middle" x="316.2125" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">totalAllocPoint</text>
+</g>
+<g id="clust4" class="cluster">
+<title style="">clusterIERC20</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M259.3455,-147C259.3455,-147 372.0796,-147 372.0796,-147 378.0796,-147 384.0796,-153 384.0796,-159 384.0796,-159 384.0796,-266 384.0796,-266 384.0796,-272 378.0796,-278 372.0796,-278 372.0796,-278 259.3455,-278 259.3455,-278 253.3455,-278 247.3455,-272 247.3455,-266 247.3455,-266 247.3455,-159 247.3455,-159 247.3455,-153 253.3455,-147 259.3455,-147" style=""></path>
+<text text-anchor="middle" x="315.7125" y="-261.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">IERC20</text>
+</g>
+<g id="clust5" class="cluster">
+<title style="">cluster_to</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M809.8936,-591C809.8936,-591 855.8936,-591 855.8936,-591 861.8936,-591 867.8936,-597 867.8936,-603 867.8936,-603 867.8936,-656 867.8936,-656 867.8936,-662 861.8936,-668 855.8936,-668 855.8936,-668 809.8936,-668 809.8936,-668 803.8936,-668 797.8936,-662 797.8936,-656 797.8936,-656 797.8936,-603 797.8936,-603 797.8936,-597 803.8936,-591 809.8936,-591" style=""></path>
+<text text-anchor="middle" x="832.8936" y="-651.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">_to</text>
+</g>
+<g id="clust6" class="cluster">
+<title style="">clusterbonusEndBlock</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M792.8936,-506C792.8936,-506 873.8936,-506 873.8936,-506 879.8936,-506 885.8936,-512 885.8936,-518 885.8936,-518 885.8936,-571 885.8936,-571 885.8936,-577 879.8936,-583 873.8936,-583 873.8936,-583 792.8936,-583 792.8936,-583 786.8936,-583 780.8936,-577 780.8936,-571 780.8936,-571 780.8936,-518 780.8936,-518 780.8936,-512 786.8936,-506 792.8936,-506" style=""></path>
+<text text-anchor="middle" x="833.3936" y="-566.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">bonusEndBlock</text>
+</g>
+<g id="clust7" class="cluster">
+<title style="">clustermultiplier</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M667.8974,-425C667.8974,-425 714.8974,-425 714.8974,-425 720.8974,-425 726.8974,-431 726.8974,-437 726.8974,-437 726.8974,-490 726.8974,-490 726.8974,-496 720.8974,-502 714.8974,-502 714.8974,-502 667.8974,-502 667.8974,-502 661.8974,-502 655.8974,-496 655.8974,-490 655.8974,-490 655.8974,-437 655.8974,-437 655.8974,-431 661.8974,-425 667.8974,-425" style=""></path>
+<text text-anchor="middle" x="691.3974" y="-485.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">multiplier</text>
+</g>
+<g id="clust8" class="cluster">
+<title style="">clusteraccSushiPerShare</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M644.8974,-340C644.8974,-340 736.8974,-340 736.8974,-340 742.8974,-340 748.8974,-346 748.8974,-352 748.8974,-352 748.8974,-405 748.8974,-405 748.8974,-411 742.8974,-417 736.8974,-417 736.8974,-417 644.8974,-417 644.8974,-417 638.8974,-417 632.8974,-411 632.8974,-405 632.8974,-405 632.8974,-352 632.8974,-352 632.8974,-346 638.8974,-340 644.8974,-340" style=""></path>
+<text text-anchor="middle" x="690.8974" y="-400.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">accSushiPerShare</text>
+</g>
+<g id="clust9" class="cluster">
+<title style="">clustersushiReward</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M658.8974,-201C658.8974,-201 722.8974,-201 722.8974,-201 728.8974,-201 734.8974,-207 734.8974,-213 734.8974,-213 734.8974,-320 734.8974,-320 734.8974,-326 728.8974,-332 722.8974,-332 722.8974,-332 658.8974,-332 658.8974,-332 652.8974,-332 646.8974,-326 646.8974,-320 646.8974,-320 646.8974,-213 646.8974,-213 646.8974,-207 652.8974,-201 658.8974,-201" style=""></path>
+<text text-anchor="middle" x="690.8974" y="-315.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">sushiReward</text>
+</g>
+<g id="clust10" class="cluster">
+<title style="">clusterSushiToken</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M644.1873,-8C644.1873,-8 737.6075,-8 737.6075,-8 743.6075,-8 749.6075,-14 749.6075,-20 749.6075,-20 749.6075,-181 749.6075,-181 749.6075,-187 743.6075,-193 737.6075,-193 737.6075,-193 644.1873,-193 644.1873,-193 638.1873,-193 632.1873,-187 632.1873,-181 632.1873,-181 632.1873,-20 632.1873,-20 632.1873,-14 638.1873,-8 644.1873,-8" style=""></path>
+<text text-anchor="middle" x="690.8974" y="-176.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">SushiToken</text>
+</g>
+<g id="clust11" class="cluster">
+<title style="">cluster_01</title>
+<polygon fill="#2e3e56" stroke="#000000" points="35.0081,-973 35.0081,-1102 350.7125,-1102 350.7125,-973 35.0081,-973" style=""></polygon>
+<text text-anchor="middle" x="192.8603" y="-1085.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Legend</text>
+</g>
+<!-- IMigratorChef.migrate -->
+<g id="node1" class="node" data-name="IMigratorChef.migrate">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.7125" cy="-312" rx="40.5654" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-307.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">migrate</text>
+</g>
+<!-- MasterChef.&lt;Constructor&gt; -->
+<g id="node2" class="node" data-name="MasterChef.&lt;Constructor&gt;">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-914" rx="67.5419" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-909.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&lt;Constructor&gt;</text>
+</g>
+<!-- MasterChef.poolLength -->
+<g id="node3" class="node" data-name="MasterChef.poolLength">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="108.0081" cy="-860" rx="55.6217" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-855.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">poolLength</text>
+</g>
+<!-- MasterChef.add -->
+<g id="node4" class="node" data-name="MasterChef.add">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-806" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-801.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- MasterChef.massUpdatePools -->
+<g id="node10" class="node" data-name="MasterChef.massUpdatePools">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.7125" cy="-752" rx="79.8933" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-747.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">massUpdatePools</text>
+</g>
+<!-- MasterChef.add&#45;&gt;MasterChef.massUpdatePools -->
+<g id="edge1" class="edge" data-name="MasterChef.add->MasterChef.massUpdatePools">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.4767,-799.3785C163.199,-791.6512 213.4,-778.5997 253.5953,-768.1495" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="254.5191,-771.5258 263.3167,-765.6221 252.7577,-764.751 254.5191,-771.5258" style=""></polygon>
+</g>
+<!-- totalAllocPoint.add -->
+<g id="node17" class="node" data-name="totalAllocPoint.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.7125" cy="-451" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-446.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- MasterChef.add&#45;&gt;totalAllocPoint.add -->
+<g id="edge2" class="edge" data-name="MasterChef.add->totalAllocPoint.add">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M135.1867,-805.5923C156.123,-803.73 184.0976,-797.5863 200.0161,-779 279.626,-686.0481 172.1602,-610.404 236.0161,-506 247.0436,-487.9702 266.4604,-474.3846 283.3672,-465.2264" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="285.1204,-468.2611 292.4324,-460.5939 281.9351,-462.0278 285.1204,-468.2611" style=""></polygon>
+</g>
+<!-- MasterChef.set -->
+<g id="node5" class="node" data-name="MasterChef.set">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-752" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-747.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">set</text>
+</g>
+<!-- MasterChef.set&#45;&gt;MasterChef.massUpdatePools -->
+<g id="edge3" class="edge" data-name="MasterChef.set->MasterChef.massUpdatePools">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M135.1618,-752C158.2814,-752 192.8592,-752 225.5861,-752" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="225.6686,-755.5001 235.6685,-752 225.6685,-748.5001 225.6686,-755.5001" style=""></polygon>
+</g>
+<!-- totalAllocPoint.sub -->
+<g id="node18" class="node" data-name="totalAllocPoint.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.7125" cy="-397" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-392.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- MasterChef.set&#45;&gt;totalAllocPoint.sub -->
+<g id="edge4" class="edge" data-name="MasterChef.set->totalAllocPoint.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M135.2479,-751.6444C156.2188,-749.8116 184.2101,-743.6821 200.0161,-725 287.0385,-622.1428 151.1315,-528.6284 236.0161,-424 246.4352,-411.1575 263.2235,-404.3933 278.7108,-400.843" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="279.4585,-404.2635 288.6203,-398.9424 278.14,-397.3888 279.4585,-404.2635" style=""></polygon>
+</g>
+<!-- MasterChef.setMigrator -->
+<g id="node6" class="node" data-name="MasterChef.setMigrator">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-698" rx="56.1744" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-693.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">setMigrator</text>
+</g>
+<!-- MasterChef.migrate -->
+<g id="node7" class="node" data-name="MasterChef.migrate">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-644" rx="40.5654" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-639.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">migrate</text>
+</g>
+<!-- MasterChef.migrate&#45;&gt;IMigratorChef.migrate -->
+<g id="edge7" class="edge" data-name="MasterChef.migrate->IMigratorChef.migrate">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M148.6443,-641.7809C166.9437,-638.622 187.2585,-631.7175 200.0161,-617 273.545,-532.1755 176.8749,-462.4148 236.0161,-367 245.863,-351.1136 262.1888,-338.6523 277.5086,-329.6374" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="279.3101,-332.6406 286.3559,-324.7281 275.9136,-326.5198 279.3101,-332.6406" style=""></polygon>
+</g>
+<!-- IERC20.balanceOf -->
+<g id="node19" class="node" data-name="IERC20.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.7125" cy="-227" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- MasterChef.migrate&#45;&gt;IERC20.balanceOf -->
+<g id="edge5" class="edge" data-name="MasterChef.migrate->IERC20.balanceOf">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M143.3047,-634.9754C162.9888,-631.2044 186.2441,-624.4773 200.0161,-608 296.0498,-493.1025 159.4258,-401.6772 236.0161,-273 243.2811,-260.7944 254.4319,-250.6544 266.1122,-242.8697" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="267.9709,-245.8356 274.6628,-237.6216 264.3092,-239.8696 267.9709,-245.8356" style=""></polygon>
+</g>
+<!-- MasterChef.migrate&#45;&gt;IERC20.balanceOf -->
+<g id="edge8" class="edge" data-name="MasterChef.migrate->IERC20.balanceOf">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M146.0732,-650.4329C165.1316,-648.5576 186.8846,-641.7109 200.0161,-626 296.0498,-511.1025 159.4258,-419.6772 236.0161,-291 247.0724,-272.4246 267.1287,-258.6335 284.3544,-248.3664" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="286.1584,-251.3662 293.0417,-243.3119 282.638,-245.3157 286.1584,-251.3662" style=""></polygon>
+</g>
+<!-- IERC20.safeApprove -->
+<g id="node20" class="node" data-name="IERC20.safeApprove">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="315.7125" cy="-173" rx="60.2344" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-168.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">safeApprove</text>
+</g>
+<!-- MasterChef.migrate&#45;&gt;IERC20.safeApprove -->
+<g id="edge6" class="edge" data-name="MasterChef.migrate->IERC20.safeApprove">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M148.5481,-642.1749C167.0567,-639.1276 187.5769,-632.2033 200.0161,-617 258.915,-545.0136 178.6129,-273.1846 236.0161,-200 240.603,-194.1521 246.5142,-189.5622 253.0424,-185.9612" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="254.6924,-189.0533 262.2603,-181.6385 251.7203,-182.7155 254.6924,-189.0533" style=""></polygon>
+</g>
+<!-- MasterChef.getMultiplier -->
+<g id="node8" class="node" data-name="MasterChef.getMultiplier">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="690.8974" cy="-617" rx="61.9924" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-612.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getMultiplier</text>
+</g>
+<!-- _to.sub -->
+<g id="node21" class="node" data-name="_to.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="832.8936" cy="-617" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="832.8936" y="-612.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- MasterChef.getMultiplier&#45;&gt;_to.sub -->
+<g id="edge9" class="edge" data-name="MasterChef.getMultiplier->_to.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M735.4363,-604.3703C756.4356,-602.9254 781.0387,-603.2796 800.271,-605.4331" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="799.9633,-608.9235 810.3461,-606.8145 800.9143,-601.9884 799.9633,-608.9235" style=""></polygon>
+</g>
+<!-- MasterChef.getMultiplier&#45;&gt;_to.sub -->
+<g id="edge10" class="edge" data-name="MasterChef.getMultiplier->_to.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M753.179,-617C767.5002,-617 782.3018,-617 795.2053,-617" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="795.5456,-620.5001 805.5455,-617 795.5455,-613.5001 795.5456,-620.5001" style=""></polygon>
+</g>
+<!-- MasterChef.getMultiplier&#45;&gt;_to.sub -->
+<g id="edge12" class="edge" data-name="MasterChef.getMultiplier->_to.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M735.4363,-629.6297C756.4356,-631.0746 781.0387,-630.7204 800.271,-628.5669" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="800.9143,-632.0116 810.3461,-627.1855 799.9633,-625.0765 800.9143,-632.0116" style=""></polygon>
+</g>
+<!-- bonusEndBlock.sub -->
+<g id="node22" class="node" data-name="bonusEndBlock.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="832.8936" cy="-532" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="832.8936" y="-527.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- MasterChef.getMultiplier&#45;&gt;bonusEndBlock.sub -->
+<g id="edge11" class="edge" data-name="MasterChef.getMultiplier->bonusEndBlock.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M718.2757,-600.6111C742.8231,-585.9169 778.7288,-564.4234 803.7908,-549.4212" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="805.7098,-552.3516 812.4924,-544.2123 802.1145,-546.3455 805.7098,-552.3516" style=""></polygon>
+</g>
+<!-- MasterChef.pendingSushi -->
+<g id="node9" class="node" data-name="MasterChef.pendingSushi">
+
+<ellipse fill="#ffbdb9" stroke="#ffbdb9" stroke-width="3" cx="512.1551" cy="-644" rx="63.7277" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="512.1551" y="-639.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">pendingSushi</text>
+</g>
+<!-- MasterChef.pendingSushi&#45;&gt;MasterChef.getMultiplier -->
+<g id="edge13" class="edge" data-name="MasterChef.pendingSushi->MasterChef.getMultiplier">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M568.7103,-635.457C586.8297,-632.72 607.039,-629.6673 625.7226,-626.845" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="626.2623,-630.3033 635.6273,-625.3488 625.2167,-623.3818 626.2623,-630.3033" style=""></polygon>
+</g>
+<!-- multiplier.mul -->
+<g id="node23" class="node" data-name="multiplier.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-451" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-446.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- MasterChef.pendingSushi&#45;&gt;multiplier.mul -->
+<g id="edge14" class="edge" data-name="MasterChef.pendingSushi->multiplier.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M565.3048,-634.084C575.4765,-630.1533 585.3059,-624.6645 592.9012,-617 629.4072,-580.1613 600.5062,-549.3993 628.9012,-506 637.99,-492.1086 651.4788,-479.5671 663.5556,-469.9803" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="665.7872,-472.6802 671.6194,-463.835 661.5443,-467.1126 665.7872,-472.6802" style=""></polygon>
+</g>
+<!-- accSushiPerShare.add -->
+<g id="node24" class="node" data-name="accSushiPerShare.add">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-366" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-361.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">add</text>
+</g>
+<!-- MasterChef.pendingSushi&#45;&gt;accSushiPerShare.add -->
+<g id="edge15" class="edge" data-name="MasterChef.pendingSushi->accSushiPerShare.add">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M566.9353,-634.4952C576.7471,-630.5315 586.0216,-624.9254 592.9012,-617 650.9598,-550.1155 585.4026,-498.1506 628.9012,-421 637.0542,-406.5395 650.4508,-393.9419 662.7085,-384.4651" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="664.95,-387.1614 670.9343,-378.4184 660.804,-381.5213 664.95,-387.1614" style=""></polygon>
+</g>
+<!-- sushiReward.mul -->
+<g id="node25" class="node" data-name="sushiReward.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-281" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-276.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- MasterChef.pendingSushi&#45;&gt;sushiReward.mul -->
+<g id="edge16" class="edge" data-name="MasterChef.pendingSushi->sushiReward.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M567.2759,-634.7828C577.0613,-630.7968 586.239,-625.109 592.9012,-617 672.8298,-519.7135 570.0594,-447.3143 628.9012,-336 636.6592,-321.3238 650.0168,-308.7049 662.3509,-299.2699" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="664.6007,-301.962 670.645,-293.2604 660.4936,-296.2935 664.6007,-301.962" style=""></polygon>
+</g>
+<!-- MasterChef.updatePool -->
+<g id="node11" class="node" data-name="MasterChef.updatePool">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.1551" cy="-590" rx="54.4759" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="512.1551" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">updatePool</text>
+</g>
+<!-- MasterChef.massUpdatePools&#45;&gt;MasterChef.updatePool -->
+<g id="edge17" class="edge" data-name="MasterChef.massUpdatePools->MasterChef.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M326.5428,-733.9659C344.7123,-705.1889 384.0376,-648.8875 431.409,-617 439.3266,-611.6703 448.3872,-607.3115 457.5103,-603.7729" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="458.7608,-607.0428 466.995,-600.3758 456.4004,-600.4527 458.7608,-607.0428" style=""></polygon>
+</g>
+<!-- MasterChef.updatePool&#45;&gt;MasterChef.getMultiplier -->
+<g id="edge18" class="edge" data-name="MasterChef.updatePool->MasterChef.getMultiplier">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M561.9448,-597.521C581.652,-600.4979 604.5772,-603.9609 625.5858,-607.1343" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="625.3121,-610.6326 635.7227,-608.6656 626.3576,-603.7111 625.3121,-610.6326" style=""></polygon>
+</g>
+<!-- MasterChef.updatePool&#45;&gt;multiplier.mul -->
+<g id="edge19" class="edge" data-name="MasterChef.updatePool->multiplier.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M558.4533,-580.4723C570.504,-576.4661 582.8986,-570.8449 592.9012,-563 616.4779,-544.509 609.502,-528.8352 628.9012,-506 639.649,-493.3485 653.3015,-480.9293 665.0575,-471.1027" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="667.3089,-473.7829 672.8342,-464.7429 662.8774,-468.3642 667.3089,-473.7829" style=""></polygon>
+</g>
+<!-- MasterChef.updatePool&#45;&gt;sushiReward.mul -->
+<g id="edge23" class="edge" data-name="MasterChef.updatePool->sushiReward.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M562.0787,-582.5007C573.697,-578.4918 584.9724,-572.3622 592.9012,-563 658.9179,-485.049 579.8202,-425.5858 628.9012,-336 636.8774,-321.4413 650.2566,-308.8339 662.5485,-299.3762" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="664.7934,-302.0707 670.8048,-293.3464 660.6649,-296.4178 664.7934,-302.0707" style=""></polygon>
+</g>
+<!-- sushiReward.div -->
+<g id="node26" class="node" data-name="sushiReward.div">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-227" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-222.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">div</text>
+</g>
+<!-- MasterChef.updatePool&#45;&gt;sushiReward.div -->
+<g id="edge21" class="edge" data-name="MasterChef.updatePool->sushiReward.div">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M562.3458,-582.7223C573.9606,-578.7103 585.1674,-572.5239 592.9012,-563 680.0589,-455.6688 546.5514,-365.0629 628.9012,-254 635.3657,-245.2815 645.2469,-239.3388 655.2337,-235.304" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="656.4429,-238.5892 664.7331,-231.992 654.1383,-231.9794 656.4429,-238.5892" style=""></polygon>
+</g>
+<!-- SushiToken.mint -->
+<g id="node27" class="node" data-name="SushiToken.mint">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-142" rx="28.991" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-137.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mint</text>
+</g>
+<!-- MasterChef.updatePool&#45;&gt;SushiToken.mint -->
+<g id="edge20" class="edge" data-name="MasterChef.updatePool->SushiToken.mint">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M551.9351,-577.5533C567.0234,-573.2381 582.9494,-566.4823 592.9012,-554 643.8485,-490.0978 591.7732,-260.8054 628.9012,-188 635.2969,-175.4586 645.86,-164.4696 656.4706,-156.1808" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="658.8204,-158.803 664.9117,-150.1342 654.744,-153.1123 658.8204,-158.803" style=""></polygon>
+</g>
+<!-- MasterChef.updatePool&#45;&gt;SushiToken.mint -->
+<g id="edge22" class="edge" data-name="MasterChef.updatePool->SushiToken.mint">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M567.0503,-589.9024C576.977,-586.0979 586.2667,-580.3215 592.9012,-572 643.8485,-508.0978 591.7732,-278.8054 628.9012,-206 637.5622,-189.0164 653.8657,-174.8797 667.5803,-163.9447" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="670.0043,-166.4908 675.6936,-157.5531 665.6725,-160.9921 670.0043,-166.4908" style=""></polygon>
+</g>
+<!-- MasterChef.deposit -->
+<g id="node12" class="node" data-name="MasterChef.deposit">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="315.7125" cy="-590" rx="38.8632" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">deposit</text>
+</g>
+<!-- MasterChef.deposit&#45;&gt;MasterChef.updatePool -->
+<g id="edge24" class="edge" data-name="MasterChef.deposit->MasterChef.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M354.9935,-590C381.3494,-590 416.69,-590 447.1832,-590" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="447.3186,-593.5001 457.3186,-590 447.3186,-586.5001 447.3186,-593.5001" style=""></polygon>
+</g>
+<!-- MasterChef.safeSushiTransfer -->
+<g id="node15" class="node" data-name="MasterChef.safeSushiTransfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="512.1551" cy="-536" rx="80.993" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="512.1551" y="-531.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">safeSushiTransfer</text>
+</g>
+<!-- MasterChef.deposit&#45;&gt;MasterChef.safeSushiTransfer -->
+<g id="edge25" class="edge" data-name="MasterChef.deposit->MasterChef.safeSushiTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M349.4822,-580.7171C377.4383,-573.0322 417.8662,-561.919 451.4245,-552.6942" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="452.4283,-556.0482 461.1429,-550.0227 450.5729,-549.2985 452.4283,-556.0482" style=""></polygon>
+</g>
+<!-- MasterChef.withdraw -->
+<g id="node13" class="node" data-name="MasterChef.withdraw">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="315.7125" cy="-536" rx="47.51" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="315.7125" y="-531.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">withdraw</text>
+</g>
+<!-- MasterChef.withdraw&#45;&gt;MasterChef.updatePool -->
+<g id="edge26" class="edge" data-name="MasterChef.withdraw->MasterChef.updatePool">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M354.5233,-546.6687C384.7203,-554.9695 426.9179,-566.5692 460.0549,-575.6782" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="459.4545,-579.1429 470.0245,-578.4188 461.3099,-572.3933 459.4545,-579.1429" style=""></polygon>
+</g>
+<!-- MasterChef.withdraw&#45;&gt;MasterChef.safeSushiTransfer -->
+<g id="edge27" class="edge" data-name="MasterChef.withdraw->MasterChef.safeSushiTransfer">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M363.2658,-536C380.7508,-536 401.1857,-536 421.2146,-536" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="421.3153,-539.5001 431.3153,-536 421.3153,-532.5001 421.3153,-539.5001" style=""></polygon>
+</g>
+<!-- MasterChef.emergencyWithdraw -->
+<g id="node14" class="node" data-name="MasterChef.emergencyWithdraw">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-590" rx="92.0161" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-585.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">emergencyWithdraw</text>
+</g>
+<!-- SushiToken.balanceOf -->
+<g id="node28" class="node" data-name="SushiToken.balanceOf">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-88" rx="50.9211" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-83.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">balanceOf</text>
+</g>
+<!-- MasterChef.safeSushiTransfer&#45;&gt;SushiToken.balanceOf -->
+<g id="edge28" class="edge" data-name="MasterChef.safeSushiTransfer->SushiToken.balanceOf">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M515.1036,-517.5998C527.0786,-444.8421 574.0586,-178.1276 628.9012,-115 632.6065,-110.735 637.1096,-107.1194 641.9796,-104.0597" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="643.9327,-106.9818 651.0488,-99.1325 640.591,-100.8309 643.9327,-106.9818" style=""></polygon>
+</g>
+<!-- SushiToken.transfer -->
+<g id="node29" class="node" data-name="SushiToken.transfer">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="690.8974" cy="-34" rx="40.5441" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="690.8974" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">transfer</text>
+</g>
+<!-- MasterChef.safeSushiTransfer&#45;&gt;SushiToken.transfer -->
+<g id="edge29" class="edge" data-name="MasterChef.safeSushiTransfer->SushiToken.transfer">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M514.0719,-517.9118C523.5129,-438.6945 567.1122,-125.2796 628.9012,-52 632.4958,-47.7369 636.8909,-44.1262 641.6656,-41.1302" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="643.3915,-44.1766 650.5793,-36.3929 640.1063,-37.9954 643.3915,-44.1766" style=""></polygon>
+</g>
+<!-- MasterChef.safeSushiTransfer&#45;&gt;SushiToken.transfer -->
+<g id="edge30" class="edge" data-name="MasterChef.safeSushiTransfer->SushiToken.transfer">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M514.8595,-517.9866C525.7457,-440.8845 568.686,-141.4131 628.9012,-70 635.7257,-61.9064 645.4353,-56.1645 655.1504,-51.7285" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="656.5172,-54.9506 664.3727,-47.8413 653.7984,-48.5002 656.5172,-54.9506" style=""></polygon>
+</g>
+<!-- MasterChef.dev -->
+<g id="node16" class="node" data-name="MasterChef.dev">
+
+<ellipse fill="#ff9797" stroke="#ff9797" stroke-width="3" cx="108.0081" cy="-536" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="108.0081" y="-531.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">dev</text>
+</g>
+<!-- key -->
+<g id="node30" class="node" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="173.0081,-1069 43.0081,-1069 43.0081,-981 173.0081,-981 173.0081,-1069" style=""></polygon>
+<text text-anchor="start" x="92.6441" y="-1050.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Internal Call</text>
+<text text-anchor="start" x="88.7521" y="-1030.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">External Call</text>
+<text text-anchor="start" x="66.2135" y="-1010.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Defined Contract</text>
+<text text-anchor="start" x="52.6108" y="-990.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node31" class="node" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="342.7125,-1069 288.7125,-1069 288.7125,-981 342.7125,-981 342.7125,-1069" style=""></polygon>
+<text text-anchor="start" x="303.4716" y="-1050.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<text text-anchor="start" x="303.4716" y="-1030.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="#445773" stroke="transparent" points="301.7125,-1005 301.7125,-1025 329.7125,-1025 329.7125,-1005 301.7125,-1005" style=""></polygon>
+<text text-anchor="start" x="303.4716" y="-1010.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="none" stroke="#e8726d" points="303.7125,-987 303.7125,-1003 327.7125,-1003 327.7125,-987 303.7125,-987" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge31" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M165.0081,-1055C222.2056,-1055 239.0185,-1055 291.4835,-1055" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="291.7126,-1058.5001 301.7125,-1055 291.7125,-1051.5001 291.7126,-1058.5001" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge32" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M165.0081,-1035C222.2056,-1035 239.0185,-1035 291.4835,-1035" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="291.7126,-1038.5001 301.7125,-1035 291.7125,-1031.5001 291.7126,-1038.5001" style=""></polygon>
+</g>
+</g>
+</svg>
