@@ -1,0 +1,241 @@
+<?xml version="1.0" standalone="no"?>
+    <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [  <!ENTITY quot "&#34;">  <!ENTITY amp "&#38;">  <!ENTITY apos "&#39;">  <!ENTITY lt "&#60;">  <!ENTITY gt "&#62;">  <!ENTITY nbsp "&#160;">  <!ENTITY iexcl "&#161;">  <!ENTITY cent "&#162;">  <!ENTITY pound "&#163;">  <!ENTITY curren "&#164;">  <!ENTITY yen "&#165;">  <!ENTITY brvbar "&#166;">  <!ENTITY sect "&#167;">  <!ENTITY uml "&#168;">  <!ENTITY copy "&#169;">  <!ENTITY ordf "&#170;">  <!ENTITY laquo "&#171;">  <!ENTITY not "&#172;">  <!ENTITY shy "&#173;">  <!ENTITY reg "&#174;">  <!ENTITY macr "&#175;">  <!ENTITY deg "&#176;">  <!ENTITY plusmn "&#177;">  <!ENTITY sup2 "&#178;">  <!ENTITY sup3 "&#179;">  <!ENTITY acute "&#180;">  <!ENTITY micro "&#181;">  <!ENTITY para "&#182;">  <!ENTITY middot "&#183;">  <!ENTITY cedil "&#184;">  <!ENTITY sup1 "&#185;">  <!ENTITY ordm "&#186;">  <!ENTITY raquo "&#187;">  <!ENTITY frac14 "&#188;">  <!ENTITY frac12 "&#189;">  <!ENTITY frac34 "&#190;">  <!ENTITY iquest "&#191;">  <!ENTITY Agrave "&#192;">  <!ENTITY Aacute "&#193;">  <!ENTITY Acirc "&#194;">  <!ENTITY Atilde "&#195;">  <!ENTITY Auml "&#196;">  <!ENTITY Aring "&#197;">  <!ENTITY AElig "&#198;">  <!ENTITY Ccedil "&#199;">  <!ENTITY Egrave "&#200;">  <!ENTITY Eacute "&#201;">  <!ENTITY Ecirc "&#202;">  <!ENTITY Euml "&#203;">  <!ENTITY Igrave "&#204;">  <!ENTITY Iacute "&#205;">  <!ENTITY Icirc "&#206;">  <!ENTITY Iuml "&#207;">  <!ENTITY ETH "&#208;">  <!ENTITY Ntilde "&#209;">  <!ENTITY Ograve "&#210;">  <!ENTITY Oacute "&#211;">  <!ENTITY Ocirc "&#212;">  <!ENTITY Otilde "&#213;">  <!ENTITY Ouml "&#214;">  <!ENTITY times "&#215;">  <!ENTITY Oslash "&#216;">  <!ENTITY Ugrave "&#217;">  <!ENTITY Uacute "&#218;">  <!ENTITY Ucirc "&#219;">  <!ENTITY Uuml "&#220;">  <!ENTITY Yacute "&#221;">  <!ENTITY THORN "&#222;">  <!ENTITY szlig "&#223;">  <!ENTITY agrave "&#224;">  <!ENTITY aacute "&#225;">  <!ENTITY acirc "&#226;">  <!ENTITY atilde "&#227;">  <!ENTITY auml "&#228;">  <!ENTITY aring "&#229;">  <!ENTITY aelig "&#230;">  <!ENTITY ccedil "&#231;">  <!ENTITY egrave "&#232;">  <!ENTITY eacute "&#233;">  <!ENTITY ecirc "&#234;">  <!ENTITY euml "&#235;">  <!ENTITY igrave "&#236;">  <!ENTITY iacute "&#237;">  <!ENTITY icirc "&#238;">  <!ENTITY iuml "&#239;">  <!ENTITY eth "&#240;">  <!ENTITY ntilde "&#241;">  <!ENTITY ograve "&#242;">  <!ENTITY oacute "&#243;">  <!ENTITY ocirc "&#244;">  <!ENTITY otilde "&#245;">  <!ENTITY ouml "&#246;">  <!ENTITY divide "&#247;">  <!ENTITY oslash "&#248;">  <!ENTITY ugrave "&#249;">  <!ENTITY uacute "&#250;">  <!ENTITY ucirc "&#251;">  <!ENTITY uuml "&#252;">  <!ENTITY yacute "&#253;">  <!ENTITY thorn "&#254;">  <!ENTITY yuml "&#255;">  <!ENTITY OElig "&#338;">  <!ENTITY oelig "&#339;">  <!ENTITY Scaron "&#352;">  <!ENTITY scaron "&#353;">  <!ENTITY Yuml "&#376;">  <!ENTITY fnof "&#402;">  <!ENTITY circ "&#710;">  <!ENTITY tilde "&#732;">  <!ENTITY Alpha "&#913;">  <!ENTITY Beta "&#914;">  <!ENTITY Gamma "&#915;">  <!ENTITY Delta "&#916;">  <!ENTITY Epsilon "&#917;">  <!ENTITY Zeta "&#918;">  <!ENTITY Eta "&#919;">  <!ENTITY Theta "&#920;">  <!ENTITY Iota "&#921;">  <!ENTITY Kappa "&#922;">  <!ENTITY Lambda "&#923;">  <!ENTITY Mu "&#924;">  <!ENTITY Nu "&#925;">  <!ENTITY Xi "&#926;">  <!ENTITY Omicron "&#927;">  <!ENTITY Pi "&#928;">  <!ENTITY Rho "&#929;">  <!ENTITY Sigma "&#931;">  <!ENTITY Tau "&#932;">  <!ENTITY Upsilon "&#933;">  <!ENTITY Phi "&#934;">  <!ENTITY Chi "&#935;">  <!ENTITY Psi "&#936;">  <!ENTITY Omega "&#937;">  <!ENTITY alpha "&#945;">  <!ENTITY beta "&#946;">  <!ENTITY gamma "&#947;">  <!ENTITY delta "&#948;">  <!ENTITY epsilon "&#949;">  <!ENTITY zeta "&#950;">  <!ENTITY eta "&#951;">  <!ENTITY theta "&#952;">  <!ENTITY iota "&#953;">  <!ENTITY kappa "&#954;">  <!ENTITY lambda "&#955;">  <!ENTITY mu "&#956;">  <!ENTITY nu "&#957;">  <!ENTITY xi "&#958;">  <!ENTITY omicron "&#959;">  <!ENTITY pi "&#960;">  <!ENTITY rho "&#961;">  <!ENTITY sigmaf "&#962;">  <!ENTITY sigma "&#963;">  <!ENTITY tau "&#964;">  <!ENTITY upsilon "&#965;">  <!ENTITY phi "&#966;">  <!ENTITY chi "&#967;">  <!ENTITY psi "&#968;">  <!ENTITY omega "&#969;">  <!ENTITY thetasym "&#977;">  <!ENTITY upsih "&#978;">  <!ENTITY piv "&#982;">  <!ENTITY ensp "&#8194;">  <!ENTITY emsp "&#8195;">  <!ENTITY thinsp "&#8201;">  <!ENTITY zwnj "&#8204;">  <!ENTITY zwj "&#8205;">  <!ENTITY lrm "&#8206;">  <!ENTITY rlm "&#8207;">  <!ENTITY ndash "&#8211;">  <!ENTITY mdash "&#8212;">  <!ENTITY lsquo "&#8216;">  <!ENTITY rsquo "&#8217;">  <!ENTITY sbquo "&#8218;">  <!ENTITY ldquo "&#8220;">  <!ENTITY rdquo "&#8221;">  <!ENTITY bdquo "&#8222;">  <!ENTITY dagger "&#8224;">  <!ENTITY Dagger "&#8225;">  <!ENTITY bull "&#8226;">  <!ENTITY hellip "&#8230;">  <!ENTITY permil "&#8240;">  <!ENTITY prime "&#8242;">  <!ENTITY Prime "&#8243;">  <!ENTITY lsaquo "&#8249;">  <!ENTITY rsaquo "&#8250;">  <!ENTITY oline "&#8254;">  <!ENTITY frasl "&#8260;">  <!ENTITY euro "&#8364;">  <!ENTITY image "&#8465;">  <!ENTITY weierp "&#8472;">  <!ENTITY real "&#8476;">  <!ENTITY trade "&#8482;">  <!ENTITY alefsym "&#8501;">  <!ENTITY larr "&#8592;">  <!ENTITY uarr "&#8593;">  <!ENTITY rarr "&#8594;">  <!ENTITY darr "&#8595;">  <!ENTITY harr "&#8596;">  <!ENTITY crarr "&#8629;">  <!ENTITY lArr "&#8656;">  <!ENTITY uArr "&#8657;">  <!ENTITY rArr "&#8658;">  <!ENTITY dArr "&#8659;">  <!ENTITY hArr "&#8660;">  <!ENTITY forall "&#8704;">  <!ENTITY part "&#8706;">  <!ENTITY exist "&#8707;">  <!ENTITY empty "&#8709;">  <!ENTITY nabla "&#8711;">  <!ENTITY isin "&#8712;">  <!ENTITY notin "&#8713;">  <!ENTITY ni "&#8715;">  <!ENTITY prod "&#8719;">  <!ENTITY sum "&#8721;">  <!ENTITY minus "&#8722;">  <!ENTITY lowast "&#8727;">  <!ENTITY radic "&#8730;">  <!ENTITY prop "&#8733;">  <!ENTITY infin "&#8734;">  <!ENTITY ang "&#8736;">  <!ENTITY and "&#8743;">  <!ENTITY or "&#8744;">  <!ENTITY cap "&#8745;">  <!ENTITY cup "&#8746;">  <!ENTITY int "&#8747;">  <!ENTITY there4 "&#8756;">  <!ENTITY sim "&#8764;">  <!ENTITY cong "&#8773;">  <!ENTITY asymp "&#8776;">  <!ENTITY ne "&#8800;">  <!ENTITY equiv "&#8801;">  <!ENTITY le "&#8804;">  <!ENTITY ge "&#8805;">  <!ENTITY sub "&#8834;">  <!ENTITY sup "&#8835;">  <!ENTITY nsub "&#8836;">  <!ENTITY sube "&#8838;">  <!ENTITY supe "&#8839;">  <!ENTITY oplus "&#8853;">  <!ENTITY otimes "&#8855;">  <!ENTITY perp "&#8869;">  <!ENTITY sdot "&#8901;">  <!ENTITY lceil "&#8968;">  <!ENTITY rceil "&#8969;">  <!ENTITY lfloor "&#8970;">  <!ENTITY rfloor "&#8971;">  <!ENTITY lang "&#9001;">  <!ENTITY rang "&#9002;">  <!ENTITY loz "&#9674;">  <!ENTITY spades "&#9824;">  <!ENTITY clubs "&#9827;">  <!ENTITY hearts "&#9829;">  <!ENTITY diams "&#9830;"> ]><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="691pt" height="686pt" viewBox="0.00 0.00 691.15 686.00">
+<g id="graph0" class="graph" transform="translate(4,682) scale(1)" data-name="G">
+
+<polygon fill="#2e3e56" stroke="transparent" points="-4,4 -4,-682 687.1496,-682 687.1496,4 -4,4" style=""></polygon>
+<g id="clust1" class="cluster">
+<title style="">clusterUniswapV2Library</title>
+<path fill="#445773" stroke="#445773" d="M20,-348C20,-348 663.1496,-348 663.1496,-348 669.1496,-348 675.1496,-354 675.1496,-360 675.1496,-360 675.1496,-521 675.1496,-521 675.1496,-527 669.1496,-533 663.1496,-533 663.1496,-533 20,-533 20,-533 14,-533 8,-527 8,-521 8,-521 8,-360 8,-360 8,-354 14,-348 20,-348" style=""></path>
+<text text-anchor="middle" x="341.5748" y="-516.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">UniswapV2Library &nbsp;(lib)</text>
+</g>
+<g id="clust2" class="cluster">
+<title style="">clusteramountA</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M243.4254,-263C243.4254,-263 289.4254,-263 289.4254,-263 295.4254,-263 301.4254,-269 301.4254,-275 301.4254,-275 301.4254,-328 301.4254,-328 301.4254,-334 295.4254,-340 289.4254,-340 289.4254,-340 243.4254,-340 243.4254,-340 237.4254,-340 231.4254,-334 231.4254,-328 231.4254,-328 231.4254,-275 231.4254,-275 231.4254,-269 237.4254,-263 243.4254,-263" style=""></path>
+<text text-anchor="middle" x="266.4254" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amountA</text>
+</g>
+<g id="clust3" class="cluster">
+<title style="">clusteramountIn</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M424.327,-263C424.327,-263 470.327,-263 470.327,-263 476.327,-263 482.327,-269 482.327,-275 482.327,-275 482.327,-328 482.327,-328 482.327,-334 476.327,-340 470.327,-340 470.327,-340 424.327,-340 424.327,-340 418.327,-340 412.327,-334 412.327,-328 412.327,-328 412.327,-275 412.327,-275 412.327,-269 418.327,-263 424.327,-263" style=""></path>
+<text text-anchor="middle" x="447.327" y="-323.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amountIn</text>
+</g>
+<g id="clust4" class="cluster">
+<title style="">clusteramountInWithFee</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M401.327,-178C401.327,-178 494.327,-178 494.327,-178 500.327,-178 506.327,-184 506.327,-190 506.327,-190 506.327,-243 506.327,-243 506.327,-249 500.327,-255 494.327,-255 494.327,-255 401.327,-255 401.327,-255 395.327,-255 389.327,-249 389.327,-243 389.327,-243 389.327,-190 389.327,-190 389.327,-184 395.327,-178 401.327,-178" style=""></path>
+<text text-anchor="middle" x="447.827" y="-238.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">amountInWithFee</text>
+</g>
+<g id="clust5" class="cluster">
+<title style="">clusterreserveIn</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M424.327,-93C424.327,-93 470.327,-93 470.327,-93 476.327,-93 482.327,-99 482.327,-105 482.327,-105 482.327,-158 482.327,-158 482.327,-164 476.327,-170 470.327,-170 470.327,-170 424.327,-170 424.327,-170 418.327,-170 412.327,-164 412.327,-158 412.327,-158 412.327,-105 412.327,-105 412.327,-99 418.327,-93 424.327,-93" style=""></path>
+<text text-anchor="middle" x="447.327" y="-153.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">reserveIn</text>
+</g>
+<g id="clust6" class="cluster">
+<title style="">clusterreserveOut</title>
+<path fill="#3b4b63" stroke="#e8726d" stroke-dasharray="5,2" d="M421.327,-8C421.327,-8 474.327,-8 474.327,-8 480.327,-8 486.327,-14 486.327,-20 486.327,-20 486.327,-73 486.327,-73 486.327,-79 480.327,-85 474.327,-85 474.327,-85 421.327,-85 421.327,-85 415.327,-85 409.327,-79 409.327,-73 409.327,-73 409.327,-20 409.327,-20 409.327,-14 415.327,-8 421.327,-8" style=""></path>
+<text text-anchor="middle" x="447.827" y="-68.4" font-family="Times,serif" font-size="14.00" fill="#f0f0f0" style="">reserveOut</text>
+</g>
+<g id="clust7" class="cluster">
+<title style="">cluster_01</title>
+<polygon fill="#2e3e56" stroke="#000000" points="15.727,-541 15.727,-670 301.4254,-670 301.4254,-541 15.727,-541" style=""></polygon>
+<text text-anchor="middle" x="158.5762" y="-653.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Legend</text>
+</g>
+<!-- UniswapV2Library.sortTokens -->
+<g id="node1" class="node" data-name="UniswapV2Library.sortTokens">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="613.2034" cy="-472" rx="53.8924" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="613.2034" y="-467.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sortTokens</text>
+</g>
+<!-- UniswapV2Library.pairFor -->
+<g id="node2" class="node" data-name="UniswapV2Library.pairFor">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="447.327" cy="-462" rx="39.4235" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="447.327" y="-457.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">pairFor</text>
+</g>
+<!-- UniswapV2Library.pairFor&#45;&gt;UniswapV2Library.sortTokens -->
+<g id="edge1" class="edge" data-name="UniswapV2Library.pairFor->UniswapV2Library.sortTokens">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M486.6374,-464.3699C505.4915,-465.5065 528.5505,-466.8966 549.7965,-468.1775" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="549.8618,-471.6877 560.0543,-468.7959 550.2831,-464.7003 549.8618,-471.6877" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getReserves -->
+<g id="node3" class="node" data-name="UniswapV2Library.getReserves">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="266.4254" cy="-482" rx="57.881" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="266.4254" y="-477.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getReserves</text>
+</g>
+<!-- UniswapV2Library.getReserves&#45;&gt;UniswapV2Library.sortTokens -->
+<g id="edge2" class="edge" data-name="UniswapV2Library.getReserves->UniswapV2Library.sortTokens">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M321.6626,-487.3406C373.76,-491.4707 453.9761,-495.4897 523.2573,-489 534.761,-487.9224 546.9852,-486.0858 558.5928,-484.0081" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="559.4166,-487.4148 568.6011,-482.1333 558.1276,-480.5345 559.4166,-487.4148" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getReserves&#45;&gt;UniswapV2Library.pairFor -->
+<g id="edge4" class="edge" data-name="UniswapV2Library.getReserves->UniswapV2Library.pairFor">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M321.1928,-475.9451C345.8325,-473.221 374.6794,-470.0317 398.563,-467.3912" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="399.2554,-470.8361 408.8102,-466.2583 398.4862,-463.8785 399.2554,-470.8361" style=""></polygon>
+</g>
+<!-- UniswapV2Library.IUniswapV2Pair -->
+<g id="node9" class="node" data-name="UniswapV2Library.IUniswapV2Pair">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="447.327" cy="-408" rx="75.8605" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="447.327" y="-403.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">IUniswapV2Pair</text>
+</g>
+<!-- UniswapV2Library.getReserves&#45;&gt;UniswapV2Library.IUniswapV2Pair -->
+<g id="edge3" class="edge" data-name="UniswapV2Library.getReserves->UniswapV2Library.IUniswapV2Pair">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M304.0396,-468.3269C314.3254,-464.3045 325.3919,-459.7115 335.3968,-455 351.9559,-447.202 354.717,-442.5364 371.3968,-435 378.1463,-431.9504 385.3512,-429.0075 392.5346,-426.2576" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="394.1197,-429.4023 402.272,-422.6354 391.6792,-422.8415 394.1197,-429.4023" style=""></polygon>
+</g>
+<!-- UniswapV2Library.quote -->
+<g id="node4" class="node" data-name="UniswapV2Library.quote">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="88.727" cy="-374" rx="32.4846" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="88.727" y="-369.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">quote</text>
+</g>
+<!-- amountA.mul -->
+<g id="node10" class="node" data-name="amountA.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="266.4254" cy="-289" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="266.4254" y="-284.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Library.quote&#45;&gt;amountA.mul -->
+<g id="edge5" class="edge" data-name="UniswapV2Library.quote->amountA.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M113.4352,-362.1811C145.252,-346.9619 200.5657,-320.5032 235.244,-303.9153" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="236.9304,-306.9885 244.4411,-299.5159 233.9097,-300.6737 236.9304,-306.9885" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getAmountOut -->
+<g id="node5" class="node" data-name="UniswapV2Library.getAmountOut">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="266.4254" cy="-428" rx="68.9428" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="266.4254" y="-423.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getAmountOut</text>
+</g>
+<!-- amountIn.mul -->
+<g id="node11" class="node" data-name="amountIn.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="447.327" cy="-289" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="447.327" y="-284.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Library.getAmountOut&#45;&gt;amountIn.mul -->
+<g id="edge6" class="edge" data-name="UniswapV2Library.getAmountOut->amountIn.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M312.8342,-414.551C320.8637,-410.95 328.7538,-406.4861 335.3968,-401 358.4998,-381.9204 350.8938,-365.8496 371.3968,-344 385.0838,-329.4142 403.1261,-316.1585 418.1889,-306.3167" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="420.0969,-309.2511 426.6579,-300.9322 416.3412,-303.344 420.0969,-309.2511" style=""></polygon>
+</g>
+<!-- amountInWithFee.mul -->
+<g id="node12" class="node" data-name="amountInWithFee.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="447.327" cy="-204" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="447.327" y="-199.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Library.getAmountOut&#45;&gt;amountInWithFee.mul -->
+<g id="edge7" class="edge" data-name="UniswapV2Library.getAmountOut->amountInWithFee.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M316.1322,-415.2833C323.3567,-411.6443 330.122,-406.9782 335.3968,-401 378.4735,-352.1798 334.844,-312.8786 371.3968,-259 382.6264,-242.4478 400.5704,-229.1135 416.1955,-219.7216" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="418.1157,-222.6554 425.0591,-214.6529 414.6407,-216.5789 418.1157,-222.6554" style=""></polygon>
+</g>
+<!-- reserveIn.mul -->
+<g id="node13" class="node" data-name="reserveIn.mul">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="447.327" cy="-119" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="447.327" y="-114.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">mul</text>
+</g>
+<!-- UniswapV2Library.getAmountOut&#45;&gt;reserveIn.mul -->
+<g id="edge8" class="edge" data-name="UniswapV2Library.getAmountOut->reserveIn.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M316.9565,-415.5068C323.9903,-411.8438 330.48,-407.1117 335.3968,-401 399.427,-321.4092 317.9524,-261.0532 371.3968,-174 381.933,-156.8381 400.0194,-143.4185 415.8975,-134.1323" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="417.8594,-137.047 424.9173,-129.1454 414.4723,-130.921 417.8594,-137.047" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getAmountIn -->
+<g id="node6" class="node" data-name="UniswapV2Library.getAmountIn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="266.4254" cy="-374" rx="62.5624" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="266.4254" y="-369.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getAmountIn</text>
+</g>
+<!-- UniswapV2Library.getAmountIn&#45;&gt;reserveIn.mul -->
+<g id="edge9" class="edge" data-name="UniswapV2Library.getAmountIn->reserveIn.mul">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M311.8184,-361.5936C320.7197,-357.303 329.2038,-351.5867 335.3968,-344 384.2349,-284.1712 329.3118,-238.7572 371.3968,-174 382.3705,-157.1145 400.4715,-143.7042 416.2479,-134.3538" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="418.1957,-137.274 425.1968,-129.3219 414.7648,-131.1724 418.1957,-137.274" style=""></polygon>
+</g>
+<!-- reserveOut.sub -->
+<g id="node14" class="node" data-name="reserveOut.sub">
+
+<ellipse fill="#edad56" stroke="#edad56" stroke-width="3" cx="447.327" cy="-34" rx="27" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="447.327" y="-29.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">sub</text>
+</g>
+<!-- UniswapV2Library.getAmountIn&#45;&gt;reserveOut.sub -->
+<g id="edge10" class="edge" data-name="UniswapV2Library.getAmountIn->reserveOut.sub">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M312.5679,-361.7315C321.3147,-357.4412 329.5461,-351.6902 335.3968,-344 404.6997,-252.9091 312.346,-187.0482 371.3968,-89 381.7865,-71.749 399.8679,-58.3264 415.7801,-49.061" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="417.7473,-51.9736 424.8237,-44.0885 414.3746,-45.8396 417.7473,-51.9736" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getAmountsOut -->
+<g id="node7" class="node" data-name="UniswapV2Library.getAmountsOut">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="88.727" cy="-482" rx="72.9547" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="88.727" y="-477.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getAmountsOut</text>
+</g>
+<!-- UniswapV2Library.getAmountsOut&#45;&gt;UniswapV2Library.getReserves -->
+<g id="edge11" class="edge" data-name="UniswapV2Library.getAmountsOut->UniswapV2Library.getReserves">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M161.5165,-482C173.7969,-482 186.5008,-482 198.6471,-482" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="198.6973,-485.5001 208.6973,-482 198.6973,-478.5001 198.6973,-485.5001" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getAmountsOut&#45;&gt;UniswapV2Library.getAmountOut -->
+<g id="edge12" class="edge" data-name="UniswapV2Library.getAmountsOut->UniswapV2Library.getAmountOut">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M134.9513,-467.9531C158.3602,-460.8395 186.9425,-452.1537 211.4707,-444.7" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="212.8037,-447.953 221.354,-441.6966 210.7683,-441.2554 212.8037,-447.953" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getAmountsIn -->
+<g id="node8" class="node" data-name="UniswapV2Library.getAmountsIn">
+
+<ellipse fill="#f2c383" stroke="#f2c383" stroke-width="3" cx="88.727" cy="-428" rx="66.0743" ry="18" style=""></ellipse>
+<text text-anchor="middle" x="88.727" y="-423.8" font-family="Times,serif" font-size="14.00" fill="#000000" style="">getAmountsIn</text>
+</g>
+<!-- UniswapV2Library.getAmountsIn&#45;&gt;UniswapV2Library.getReserves -->
+<g id="edge13" class="edge" data-name="UniswapV2Library.getAmountsIn->UniswapV2Library.getReserves">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.1094,-441.4872C158.0855,-449.0771 189.378,-458.5864 215.368,-466.4844" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="214.4594,-469.8663 225.0451,-469.4251 216.4948,-463.1687 214.4594,-469.8663" style=""></polygon>
+</g>
+<!-- UniswapV2Library.getAmountsIn&#45;&gt;UniswapV2Library.getAmountIn -->
+<g id="edge14" class="edge" data-name="UniswapV2Library.getAmountsIn->UniswapV2Library.getAmountIn">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M133.1094,-414.5128C157.5386,-407.0891 188.0105,-397.8292 213.6531,-390.0367" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="214.6714,-393.3854 223.2217,-387.129 212.6361,-386.6878 214.6714,-393.3854" style=""></polygon>
+</g>
+<!-- key -->
+<g id="node15" class="node" data-name="key">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="153.727,-637 23.727,-637 23.727,-549 153.727,-549 153.727,-637" style=""></polygon>
+<text text-anchor="start" x="73.363" y="-618.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Internal Call</text>
+<text text-anchor="start" x="69.471" y="-598.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">External Call</text>
+<text text-anchor="start" x="46.9324" y="-578.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Defined Contract</text>
+<text text-anchor="start" x="33.3297" y="-558.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">Undefined Contract</text>
+</g>
+<!-- key2 -->
+<g id="node16" class="node" data-name="key2">
+
+<polygon fill="#edad56" stroke="transparent" stroke-width="3" points="293.4254,-637 239.4254,-637 239.4254,-549 293.4254,-549 293.4254,-637" style=""></polygon>
+<text text-anchor="start" x="254.1845" y="-618.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<text text-anchor="start" x="254.1845" y="-598.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="#445773" stroke="transparent" points="252.4254,-573 252.4254,-593 280.4254,-593 280.4254,-573 252.4254,-573" style=""></polygon>
+<text text-anchor="start" x="254.1845" y="-578.4" font-family="Times,serif" font-size="14.00" fill="#000000" style="">&nbsp;&nbsp;&nbsp;</text>
+<polygon fill="none" stroke="#e8726d" points="254.4254,-555 254.4254,-571 278.4254,-571 278.4254,-555 254.4254,-555" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge15" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#1bc6a6" stroke-width="2" d="M145.727,-623C189.629,-623 203.0482,-623 242.4254,-623" style=""></path>
+<polygon fill="#1bc6a6" stroke="#1bc6a6" stroke-width="2" points="242.4255,-626.5001 252.4254,-623 242.4254,-619.5001 242.4255,-626.5001" style=""></polygon>
+</g>
+<!-- key&#45;&gt;key2 -->
+<g id="edge16" class="edge" data-name="key->key2">
+
+<path fill="none" stroke="#ffffff" stroke-width="2" d="M145.727,-603C189.629,-603 203.0482,-603 242.4254,-603" style=""></path>
+<polygon fill="#ffffff" stroke="#ffffff" stroke-width="2" points="242.4255,-606.5001 252.4254,-603 242.4254,-599.5001 242.4255,-606.5001" style=""></polygon>
+</g>
+</g>
+</svg>
